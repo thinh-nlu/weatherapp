@@ -1,3 +1,4 @@
+// đảm bảo vai trò quản lý dữ liệu và tạo ViewHolder cho từng mục trong List
 package com.expressweather.accurate.live.weather.forecast.view.language.adapter;
 
 import android.content.Context;
@@ -15,10 +16,10 @@ import com.expressweather.accurate.live.weather.forecast.R;
 import com.expressweather.accurate.live.weather.forecast.model.LanguageModel;
 
 import java.util.List;
-
+// Tạo Adapter để liên kết dữ liệu với ViewHolder.
 public class LanguageStartAdapter extends RecyclerView.Adapter<LanguageStartAdapter.LanguageViewHolder> {
-    private final List<LanguageModel> languageModelList;
-    private final ILanguageItem iLanguageItem;
+    private final List<LanguageModel> languageModelList; // lấy ds các language
+    private final ILanguageItem iLanguageItem; // lấy từng item của ds
     private final Context context;
 
     public LanguageStartAdapter(List<LanguageModel> languageModelList, ILanguageItem listener, Context context) {
@@ -26,7 +27,7 @@ public class LanguageStartAdapter extends RecyclerView.Adapter<LanguageStartAdap
         this.iLanguageItem = listener;
         this.context = context;
     }
-
+// tạo 1 viewHolder mới bằng cách inflate layout này và trả về viewHolder này
     @NonNull
     @Override
     public LanguageViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
@@ -34,6 +35,7 @@ public class LanguageStartAdapter extends RecyclerView.Adapter<LanguageStartAdap
         return new LanguageViewHolder(view);
     }
 
+    // được gọi khi RecyclerView cần hiện thị data tại 1 pos cụ thể
     @Override
     public void onBindViewHolder(@NonNull LanguageViewHolder holder, int position) {
         LanguageModel languageModel = languageModelList.get(position);
@@ -82,7 +84,7 @@ public class LanguageStartAdapter extends RecyclerView.Adapter<LanguageStartAdap
         });
 
     }
-
+// return lenght trong list
     @Override
     public int getItemCount() {
         if (languageModelList != null) {
@@ -103,6 +105,7 @@ public class LanguageStartAdapter extends RecyclerView.Adapter<LanguageStartAdap
         void onClickItemLanguage(String code);
     }
 
+    // tạo class LanguageViewHolder để quản lý các view hiển thị từng mục trong danh sách
     public static class LanguageViewHolder extends RecyclerView.ViewHolder {
         private final TextView tvLang;
         private final ImageView imgActive;
