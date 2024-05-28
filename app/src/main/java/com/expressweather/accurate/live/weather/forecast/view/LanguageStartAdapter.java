@@ -84,7 +84,7 @@ public class LanguageStartAdapter extends RecyclerView.Adapter<LanguageStartAdap
         });
 
     }
-// return lenght trong list
+// trả về số lượng item trong list
     @Override
     public int getItemCount() {
         if (languageModelList != null) {
