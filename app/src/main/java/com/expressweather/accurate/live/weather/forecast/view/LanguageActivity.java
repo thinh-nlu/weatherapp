@@ -38,7 +38,7 @@ public class LanguageActivity extends BaseActivity<ActivityLanguageBinding> {
         LinearLayoutManager linearLayoutManager = new LinearLayoutManager(this);
         LanguageStartAdapter languageAdapter = new LanguageStartAdapter(listLanguage, code -> codeLang = code, this);
 
-        String codeLangDefault = Locale.getDefault().getLanguage();
+        String codeLangDefault = Locale.getDefault().getLanguage();// lấy language mặc định
         String[] langDefault = {"fr", "pt", "es", "hi"};
         // kiểm tra codeLangDefault có nằm trong langDefault hay ko
         if (!Arrays.asList(langDefault).contains(codeLangDefault)) codeLang = "en";
