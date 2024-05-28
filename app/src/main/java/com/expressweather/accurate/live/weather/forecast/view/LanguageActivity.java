@@ -25,7 +25,7 @@ public class LanguageActivity extends BaseActivity<ActivityLanguageBinding> {
     List<LanguageModel> listLanguage;
     String codeLang;
     private boolean languageStart = false;
-
+// khởi tạo ViewBinding để lấy các attri của layout dễ dàng hơn
     @Override
     protected ActivityLanguageBinding setViewBinding() {
         return ActivityLanguageBinding.inflate(LayoutInflater.from(this));
@@ -34,12 +34,13 @@ public class LanguageActivity extends BaseActivity<ActivityLanguageBinding> {
     @Override
     protected void initView() {
         initData();
+        // tạo 1 LinearLayoutManager có vai trò quản lý cách sắp xếp các item trong RecyclerView. default: vertical
         LinearLayoutManager linearLayoutManager = new LinearLayoutManager(this);
         LanguageStartAdapter languageAdapter = new LanguageStartAdapter(listLanguage, code -> codeLang = code, this);
 
-        // set checked default lang local
         String codeLangDefault = Locale.getDefault().getLanguage();
         String[] langDefault = {"fr", "pt", "es", "hi"};
+        // kiểm tra codeLangDefault có nằm trong langDefault hay ko
         if (!Arrays.asList(langDefault).contains(codeLangDefault)) codeLang = "en";
 
         languageAdapter.setCheck(codeLang);
@@ -52,18 +53,19 @@ public class LanguageActivity extends BaseActivity<ActivityLanguageBinding> {
             binding.icBack.setVisibility(View.GONE);
         }
     }
-
+// sử lý sự kiện 
     @Override
     protected void viewListener() {
+        // nếu click vào icBack thì gọi onBackPressed() để quay lại 
         binding.icBack.setOnClickListener(view -> onBackPressed());
-
+        // nếu click vào imgChooseLanguage thì Lưu ngôn ngữ được chọn và điều hướng đến IntroActivity hoặc MainActivity, sau đó đóng tất cả các activity liên quan.
         binding.imgChooseLanguage.setOnClickListener(view -> {
             SystemUtils.saveLocale(getBaseContext(), codeLang);
             startActivity(new Intent(LanguageActivity.this, languageStart ? IntroActivity.class : MainActivity.class));
             finishAffinity();
         });
     }
-
+    // Kiểm tra và lấy dữ liệu từ Intent nếu có khóa Constants.LANGUAGE_START.
     private void getIntentData() {
         if (getIntent().hasExtra(Constants.LANGUAGE_START)) {
             languageStart = getIntent().getBooleanExtra(Constants.LANGUAGE_START, false);
