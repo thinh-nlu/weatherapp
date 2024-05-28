@@ -36,6 +36,7 @@ public class ConfigActivity extends BaseActivity<ActivityConfigBinding> {
 
         binding.imgBack.setOnClickListener(view -> onBackPressed());
 
+        // Đặt giá trị true từ TEMP_UNIT là độ C, false là độ F
         boolean isDegreeC = SharePrefUtils.getBoolean(SharePrefUtils.TEMP_UNIT, true);
         if (isDegreeC) {
             binding.tvDegreeC.performClick();
@@ -101,17 +102,21 @@ public class ConfigActivity extends BaseActivity<ActivityConfigBinding> {
                 break;
         }
     }
-
+    // Tạo sự kiện khi người dùng nhấn vào nút thay đổi nhiệt độ (C/F)
     private void handleTemperatureItem() {
         binding.tvDegreeC.setOnClickListener(view -> {
+            // Nếu chọn độ C, thay đổi nền TextView độ C, xoá nền TextView độ F
             binding.tvDegreeC.setBackgroundResource(R.drawable.bg_item_config_selected);
             binding.tvDegreeF.setBackground(null);
+            // Lưu trạng thái lựa chọn đơn vị độ C (true) vào SharePrefUtils
             SharePrefUtils.putBoolean(SharePrefUtils.TEMP_UNIT, true);
         });
 
         binding.tvDegreeF.setOnClickListener(view -> {
+            // Nếu chọn độ F, thay đổi nền TextView độ F, xoá nền TextView độ C
             binding.tvDegreeF.setBackgroundResource(R.drawable.bg_item_config_selected);
             binding.tvDegreeC.setBackground(null);
+            // Lưu trạng thái lựa chọn đơn vị độ F (false) vào SharePrefUtils
             SharePrefUtils.putBoolean(SharePrefUtils.TEMP_UNIT, false);
         });
     }
