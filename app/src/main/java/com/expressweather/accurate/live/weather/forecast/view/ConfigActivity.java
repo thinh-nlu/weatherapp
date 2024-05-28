@@ -44,6 +44,7 @@ public class ConfigActivity extends BaseActivity<ActivityConfigBinding> {
             binding.tvDegreeF.performClick();
         }
 
+        // Đặt phương thức getInt lấy giá trị của WIND_SPEED_UNIT
         int windSpeedUnit = SharePrefUtils.getInt(SharePrefUtils.WIND_SPEED_UNIT, Constants.WIND_SPEED_KM_PER_H);
         switch (windSpeedUnit) {
             case Constants.WIND_SPEED_KM_PER_H:
@@ -62,7 +63,7 @@ public class ConfigActivity extends BaseActivity<ActivityConfigBinding> {
                 binding.tvFtS.performClick();
                 break;
         }
-
+        
         int pressureUnit = SharePrefUtils.getInt(SharePrefUtils.PRESSURE_UNIT, Constants.PRESSURE_HPA);
         switch (pressureUnit) {
             case Constants.PRESSURE_HPA:
@@ -121,7 +122,9 @@ public class ConfigActivity extends BaseActivity<ActivityConfigBinding> {
         });
     }
 
+    // Tạo sự kiện khi người dùng nhấn vào nút thay đổi tốc độ gió (KmH/MS/Kn/Mph/FtS)
     private void handleWindSpeed() {
+        // Tạo listItem lưu các lựa chọn đơn vị đo tốc độ gió
         List<TextView> listItem = new ArrayList<>();
         listItem.add(binding.tvKmH);
         listItem.add(binding.tvMS);
@@ -129,30 +132,31 @@ public class ConfigActivity extends BaseActivity<ActivityConfigBinding> {
         listItem.add(binding.tvMph);
         listItem.add(binding.tvFtS);
 
+        //Đơn vị km/h
         binding.tvKmH.setOnClickListener(view -> {
-            setBgItemNonSelect(listItem);
-            binding.tvKmH.setBackgroundResource(R.drawable.bg_item_config_selected);
-            SharePrefUtils.putInt(SharePrefUtils.WIND_SPEED_UNIT, Constants.WIND_SPEED_KM_PER_H);
+            setBgItemNonSelect(listItem); // Bỏ nền của các TextView trong listItem
+            binding.tvKmH.setBackgroundResource(R.drawable.bg_item_config_selected); // Đặt nền cho TextView KmH
+            SharePrefUtils.putInt(SharePrefUtils.WIND_SPEED_UNIT, Constants.WIND_SPEED_KM_PER_H); // Lưu đơn vị tốc độ gió là km/h vào WIND_SPEED_UNIT
         });
-
+        // Đơn vị m/s
         binding.tvMS.setOnClickListener(view -> {
             setBgItemNonSelect(listItem);
             binding.tvMS.setBackgroundResource(R.drawable.bg_item_config_selected);
             SharePrefUtils.putInt(SharePrefUtils.WIND_SPEED_UNIT, Constants.WIND_SPEED_M_PER_S);
         });
-
+        // Đơn vị knot
         binding.tvKn.setOnClickListener(view -> {
             setBgItemNonSelect(listItem);
             binding.tvKn.setBackgroundResource(R.drawable.bg_item_config_selected);
             SharePrefUtils.putInt(SharePrefUtils.WIND_SPEED_UNIT, Constants.WIND_SPEED_KN);
         });
-
+        // Đơn vị mph
         binding.tvMph.setOnClickListener(view -> {
             setBgItemNonSelect(listItem);
             binding.tvMph.setBackgroundResource(R.drawable.bg_item_config_selected);
             SharePrefUtils.putInt(SharePrefUtils.WIND_SPEED_UNIT, Constants.WIND_SPEED_MPH);
         });
-
+        // Đơn vị ft/s
         binding.tvFtS.setOnClickListener(view -> {
             setBgItemNonSelect(listItem);
             binding.tvMph.setBackground(null);
