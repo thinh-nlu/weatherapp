@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="bg_app">#FF24252B</color>
+    <color name="bg_drawer">#FF2B2C34</color>
+    <color name="black">#FF000000</color>
+    <color name="color_4DFFAF01">#4DFFAF01</color>
+    <color name="color_A9B1BA">#A9B1BA</color>
+    <color name="color_ABACAE">#ABACAE</color>
+    <color name="color_FFAF01">#FFAF01</color>
+    <color name="color_transparent">#8C000000</color>
+    <color name="ic_launcher_background">#3B3C43</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_0">#00FFFFFF</color>
+    <string name="add">Add</string>
+    <string name="air_condition">AIR CONDITION</string>
+    <string name="air_condition_good">You have good air quality - enjoy your outdoor activities.</string>
+    <string name="and">and</string>
+    <string name="app_name" translatable="false">Weather</string>
+    <string name="cancel">Cancel</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">83079d3886d54dc6b39c50e1fc3790ca</string>
+    <string name="config">Config</string>
+    <string name="could_not_find_location">Could not find the location</string>
+    <string name="default_web_client_id" translatable="false">1026371924646-mqg46o5ls09e59eaifd891qnr7ud4l4f.apps.googleusercontent.com</string>
+    <string name="device_location">Device\'s location</string>
+    <string name="different_from_temperature">Different from the actual temperature.</string>
+    <string name="display">Display</string>
+    <string name="dominant_pollutant">Dominant pollutant</string>
+    <string name="english">English</string>
+    <string name="extreme">Extreme</string>
+    <string name="feels_like">FEELS LIKE</string>
+    <string name="firebase_database_url" translatable="false">https://vtnapps-14f75-default-rtdb.firebaseio.com</string>
+    <string name="french">French</string>
+    <string name="gcm_defaultSenderId" translatable="false">1026371924646</string>
+    <string name="general">General</string>
+    <string name="get_started">Get Started</string>
+    <string name="go">Go</string>
+    <string name="google_api_key" translatable="false">AIzaSyDBVB6VbWlEmcIu_E8TZsZNVVvyQbnf7oA</string>
+    <string name="google_app_id" translatable="false">1:1026371924646:android:1c8c30d10d552663c07a67</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDBVB6VbWlEmcIu_E8TZsZNVVvyQbnf7oA</string>
+    <string name="google_storage_bucket" translatable="false">vtnapps-14f75.appspot.com</string>
+    <string name="gps_is_required_to_use_this_app">GPS is required to use this app</string>
+    <string name="gps_is_turn_on">GPS is turn on</string>
+    <string name="high">High</string>
+    <string name="hindi">Hindi</string>
+    <string name="humidity">HUMIDITY</string>
+    <string name="in_last_hour">in last hour</string>
+    <string name="intro_content_1">Stay prepared with minute-by-minute weather updates for your location all day.</string>
+    <string name="intro_content_2">Detailed hourly forecast for your day\'s weather planning and preparedness</string>
+    <string name="intro_content_3">Add any location you want and easily to change.</string>
+    <string name="intro_title_1">Real-time Weather Updates</string>
+    <string name="intro_title_2">Detailed Hourly Forecast</string>
+    <string name="intro_title_3">Weather Around the World</string>
+    <string name="language">Language</string>
+    <string name="languages">Languages</string>
+    <string name="low">Low</string>
+    <string name="moderate">Moderate</string>
+    <string name="next">Next</string>
+    <string name="next_10_days">Next 3 days</string>
+    <string name="no_later">No Later</string>
+    <string name="notifications">Notifications</string>
+    <string name="ok">OK</string>
+    <string name="permission">Permission</string>
+    <string name="permission_description">Weather requires permission to use the {</string>
+    <string name="please_select_your_rating">Please select your rating</string>
+    <string name="policy">Policy</string>
+    <string name="portuguese">Portuguese</string>
+    <string name="precipitation">Precipitation</string>
+    <string name="pressure">Pressure</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="project_id" translatable="false">vtnapps-14f75</string>
+    <string name="rainfall">RAINFALL</string>
+    <string name="rate">Rate</string>
+    <string name="rate_description">Give us a quick rating so we know if you like it?</string>
+    <string name="rate_this_app">Rate this app</string>
+    <string name="rate_title">Do you like Weather App?</string>
+    <string name="right_now"> right now.</string>
+    <string name="search">Search</string>
+    <string name="setting">Setting</string>
+    <string name="share">Share</string>
+    <string name="similar_to_temperature">Similar to the actual temperature.</string>
+    <string name="similar_to_the_actual_temperature">Similar to the actual temperature</string>
+    <string name="spanish">Spanish</string>
+    <string name="sunrise">SUNRISE</string>
+    <string name="sunset">Sunset:</string>
+    <string name="temperature">Temperature</string>
+    <string name="ten_days_forecast">3 Days Forecast</string>
+    <string name="thank_you">Thank you!</string>
+    <string name="thank_you_description">Your feedback is very helpful to us!</string>
+    <string name="the_dew_point_is">The dew point is </string>
+    <string name="this_action_can_contain_ads">This action can contain ads</string>
+    <string name="time_unit">Time Unit</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="uv_index">UV INDEX</string>
+    <string name="version">Version</string>
+    <string name="very_high">Very High</string>
+    <string name="visibility">Visibility</string>
+    <string name="wind">WIND</string>
+    <string name="wind_speed">Wind speed</string>
+    <style name="ExploreSearchView">
+        <item name="android:editTextColor">@android:color/white</item>
+        <item name="android:textColorHint">@color/color_A9B1BA</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/poppins_regular</item>
+        <item name="android:paddingStart">0dp</item>
+        <item name="android:layout_marginStart">0dp</item>
+    </style>
+    <style name="Theme.AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+    <style name="roundedCornersImageViewSearchItem">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">@dimen/_20sdp</item>
+    </style>
+</resources>

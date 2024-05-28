@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.expressweather.accurate.live.weather.forecast.app-mergeDevelopDebugResources-41:/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\thinh\\.gradle\\caches\\transforms-3\\2f4c4355a20e0fa94ac6202c1a431dfd\\transformed\\appcompat-1.6.1\\res\\values-v22\\values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,487",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,482,764"
+                    }
+                }
+            ]
+        }
+    ]
+}

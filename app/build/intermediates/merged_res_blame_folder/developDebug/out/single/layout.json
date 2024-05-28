@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.expressweather.accurate.live.weather.forecast.app-mergeDevelopDebugResources-42:/layout/dialog_rate_success.xml",
+        "source": "com.expressweather.accurate.live.weather.forecast.app-main-47:/layout/dialog_rate_success.xml"
+    },
+    {
+        "merged": "com.expressweather.accurate.live.weather.forecast.app-mergeDevelopDebugResources-42:/layout/activity_permission.xml",
+        "source": "com.expressweather.accurate.live.weather.forecast.app-main-47:/layout/activity_permission.xml"
+    },
+    {
+        "merged": "com.expressweather.accurate.live.weather.forecast.app-mergeDevelopDebugResources-42:/layout/activity_splash.xml",
+        "source": "com.expressweather.accurate.live.weather.forecast.app-main-47:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.expressweather.accurate.live.weather.forecast.app-mergeDevelopDebugResources-42:/layout/activity_main.xml",
+        "source": "com.expressweather.accurate.live.weather.forecast.app-main-47:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.expressweather.accurate.live.weather.forecast.app-mergeDevelopDebugResources-42:/layout/layout_precipitation.xml",
+        "source": "com.expressweather.accurate.live.weather.forecast.app-main-47:/layout/layout_precipitation.xml"
+    },
+    {
+        "merged": "com.expressweather.accurate.live.weather.forecast.app-mergeDevelopDebugResources-42:/layout/layout_item_weather_time.xml",
+        "source": "com.expressweather.accurate.live.weather.forecast.app-main-47:/layout/layout_item_weather_time.xml"
+    },
+    {
+        "merged": "com.expressweather.accurate.live.weather.forecast.app-mergeDevelopDebugResources-42:/layout/fragment_home.xml",
+        "source": "com.expressweather.accurate.live.weather.forecast.app-main-47:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.expressweather.accurate.live.weather.forecast.app-mergeDevelopDebugResources-42:/layout/layout_infor_weather.xml",
+        "source": "com.expressweather.accurate.live.weather.forecast.app-main-47:/layout/layout_infor_weather.xml"
+    },
+    {
+        "merged": "com.expressweather.accurate.live.weather.forecast.app-mergeDevelopDebugResources-42:/layout/activity_intro.xml",
+        "source": "com.expressweather.accurate.live.weather.forecast.app-main-47:/layout/activity_intro.xml"
+    },
+    {
+        "merged": "com.expressweather.accurate.live.weather.forecast.app-mergeDevelopDebugResources-42:/layout/layout_drawer_setting_item.xml",
+        "source": "com.expressweather.accurate.live.weather.forecast.app-main-47:/layout/layout_drawer_setting_item.xml"
+    },
+    {
+        "merged": "com.expressweather.accurate.live.weather.forecast.app-mergeDevelopDebugResources-42:/layout/layout_image_slide.xml",
+        "source": "com.expressweather.accurate.live.weather.forecast.app-main-47:/layout/layout_image_slide.xml"
+    },
+    {
+        "merged": "com.expressweather.accurate.live.weather.forecast.app-mergeDevelopDebugResources-42:/layout/activity_search.xml",
+        "source": "com.expressweather.accurate.live.weather.forecast.app-main-47:/layout/activity_search.xml"
+    },
+    {
+        "merged": "com.expressweather.accurate.live.weather.forecast.app-mergeDevelopDebugResources-42:/layout/drawer_layout.xml",
+        "source": "com.expressweather.accurate.live.weather.forecast.app-main-47:/layout/drawer_layout.xml"
+    },
+    {
+        "merged": "com.expressweather.accurate.live.weather.forecast.app-mergeDevelopDebugResources-42:/layout/activity_policy.xml",
+        "source": "com.expressweather.accurate.live.weather.forecast.app-main-47:/layout/activity_policy.xml"
+    },
+    {
+        "merged": "com.expressweather.accurate.live.weather.forecast.app-mergeDevelopDebugResources-42:/layout/activity_ten_days.xml",
+        "source": "com.expressweather.accurate.live.weather.forecast.app-main-47:/layout/activity_ten_days.xml"
+    },
+    {
+        "merged": "com.expressweather.accurate.live.weather.forecast.app-mergeDevelopDebugResources-42:/layout/activity_search_weather_result.xml",
+        "source": "com.expressweather.accurate.live.weather.forecast.app-main-47:/layout/activity_search_weather_result.xml"
+    },
+    {
+        "merged": "com.expressweather.accurate.live.weather.forecast.app-mergeDevelopDebugResources-42:/layout/layout_drawer_general_item.xml",
+        "source": "com.expressweather.accurate.live.weather.forecast.app-main-47:/layout/layout_drawer_general_item.xml"
+    },
+    {
+        "merged": "com.expressweather.accurate.live.weather.forecast.app-mergeDevelopDebugResources-42:/layout/activity_language.xml",
+        "source": "com.expressweather.accurate.live.weather.forecast.app-main-47:/layout/activity_language.xml"
+    },
+    {
+        "merged": "com.expressweather.accurate.live.weather.forecast.app-mergeDevelopDebugResources-42:/layout/layout_item_search_weather.xml",
+        "source": "com.expressweather.accurate.live.weather.forecast.app-main-47:/layout/layout_item_search_weather.xml"
+    },
+    {
+        "merged": "com.expressweather.accurate.live.weather.forecast.app-mergeDevelopDebugResources-42:/layout/dialog_rate.xml",
+        "source": "com.expressweather.accurate.live.weather.forecast.app-main-47:/layout/dialog_rate.xml"
+    },
+    {
+        "merged": "com.expressweather.accurate.live.weather.forecast.app-mergeDevelopDebugResources-42:/layout/layout_item_language.xml",
+        "source": "com.expressweather.accurate.live.weather.forecast.app-main-47:/layout/layout_item_language.xml"
+    },
+    {
+        "merged": "com.expressweather.accurate.live.weather.forecast.app-mergeDevelopDebugResources-42:/layout/activity_config.xml",
+        "source": "com.expressweather.accurate.live.weather.forecast.app-main-47:/layout/activity_config.xml"
+    }
+]

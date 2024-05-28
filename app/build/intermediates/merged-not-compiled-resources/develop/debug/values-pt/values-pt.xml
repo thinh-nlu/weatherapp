@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navegar para a página inicial"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Navegar para cima"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Mais opções"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Concluído"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Ver tudo"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Selecionar um app"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"DESATIVADO"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ATIVADO"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"espaço"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Pesquisar…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Limpar consulta"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Consulta de pesquisa"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Pesquisar"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Pesquisa por voz"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Compartilhar com"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Compartilhar com <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Recolher"</string>
+    <string name="add">Adicionar</string>
+    <string name="air_condition">CONDIÇÃO DO AR</string>
+    <string name="air_condition_good">Você tem boa qualidade do ar - aproveite suas atividades ao ar livre.</string>
+    <string name="and">e</string>
+    <string name="cancel">Cancelar</string>
+    <string name="config">Config</string>
+    <string name="could_not_find_location">Não foi possível encontrar o local</string>
+    <string name="device_location">Localização do dispositivo</string>
+    <string name="different_from_temperature">Diferente da temperatura real.</string>
+    <string name="display">Mostrar</string>
+    <string name="dominant_pollutant">Poluente dominante</string>
+    <string name="english">English</string>
+    <string name="extreme">Extremo</string>
+    <string name="feels_like">PARECE</string>
+    <string name="french">French</string>
+    <string name="general">Em geral</string>
+    <string name="get_started">Iniciar</string>
+    <string name="go">Ir</string>
+    <string name="gps_is_required_to_use_this_app">O GPS é necessário para usar este aplicativo</string>
+    <string name="gps_is_turn_on">O GPS está ligado</string>
+    <string name="high">Alto</string>
+    <string name="hindi">Hindi</string>
+    <string name="humidity">UMIDADE</string>
+    <string name="in_last_hour">na última hora</string>
+    <string name="intro_content_1">Mantenha-se preparado com atualizações meteorológicas de minuto a minuto para sua localização o dia todo.</string>
+    <string name="intro_content_2">Previsão detalhada por hora para o planejamento e preparação para o tempo do seu dia</string>
+    <string name="intro_content_3">Adicione qualquer local que você deseja e facilmente mude.</string>
+    <string name="intro_title_1">Atualizações meteorológicas em tempo real</string>
+    <string name="intro_title_2">Previsão por hora detalhada</string>
+    <string name="intro_title_3">Clima ao redor do mundo</string>
+    <string name="language">Linguagem</string>
+    <string name="languages">Línguas</string>
+    <string name="low">Baixo</string>
+    <string name="moderate">Moderado</string>
+    <string name="next">Próximo</string>
+    <string name="next_10_days">Próximos 3 dias</string>
+    <string name="no_later">Não mais tarde</string>
+    <string name="notifications">Notificações</string>
+    <string name="ok">OK</string>
+    <string name="permission">Permissão</string>
+    <string name="permission_description">Weather requer permissão para usar o {</string>
+    <string name="please_select_your_rating">Selecione sua classificação</string>
+    <string name="policy">Política</string>
+    <string name="portuguese">Portuguese</string>
+    <string name="precipitation">Precipitação</string>
+    <string name="pressure">Pressão</string>
+    <string name="privacy_policy">política de Privacidade</string>
+    <string name="rainfall">CHUVA</string>
+    <string name="rate">Avaliar</string>
+    <string name="rate_description">Dê -nos uma classificação rápida para que saibamos se você gosta?</string>
+    <string name="rate_this_app">Avalie este aplicativo</string>
+    <string name="rate_title">Você gosta de aplicativo meteorológico?</string>
+    <string name="right_now"> agora mesmo.</string>
+    <string name="search">Procurar</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Pesquisar"</string>
+    <string name="setting">Contexto</string>
+    <string name="share">Compartilhar</string>
+    <string name="similar_to_temperature">Semelhante à temperatura real.</string>
+    <string name="similar_to_the_actual_temperature">Semelhante à temperatura real</string>
+    <string name="spanish">Spanish</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="sunrise">NASCER DO SOL</string>
+    <string name="sunset">Pôr do sol:</string>
+    <string name="temperature">Temperatura</string>
+    <string name="ten_days_forecast">Previsão de 3 dias</string>
+    <string name="thank_you">Obrigado!</string>
+    <string name="thank_you_description">Seu feedback é muito útil para nós!</string>
+    <string name="the_dew_point_is">O ponto de orvalho é </string>
+    <string name="this_action_can_contain_ads">Esta ação pode conter anúncios</string>
+    <string name="time_unit">Unidade de tempo</string>
+    <string name="today">Hoje</string>
+    <string name="tomorrow">Amanhã</string>
+    <string name="uv_index">ÍNDICE UV</string>
+    <string name="version">Versão</string>
+    <string name="very_high">Muito alto</string>
+    <string name="visibility">Visibilidade</string>
+    <string name="wind">VENTO</string>
+    <string name="wind_speed">Velocidade do vento</string>
+</resources>

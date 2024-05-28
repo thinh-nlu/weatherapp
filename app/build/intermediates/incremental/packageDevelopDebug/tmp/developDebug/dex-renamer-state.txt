@@ -1,0 +1,4 @@
+#Sun May 26 10:36:02 ICT 2024
+base.0=D\:\\New folder\\NTD\\app146_weather\\app\\build\\intermediates\\dex\\developDebug\\minifyDevelopDebugWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
