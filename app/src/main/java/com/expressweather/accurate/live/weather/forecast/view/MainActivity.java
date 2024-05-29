@@ -94,25 +94,7 @@ public class MainActivity extends BaseActivity<ActivityMainBinding> implements I
     private void initData() {
         weatherApi = WeatherService.getClient();
 
-        FusedLocationProviderClient fusedLocationClient = LocationServices.getFusedLocationProviderClient(this);
-
-        fusedLocationClient.getLastLocation().addOnSuccessListener(this, location -> {
-            Geocoder gcd = new Geocoder(this, Locale.getDefault());
-            List<Address> addresses;
-            // Got last known location. In some rare situations this can be null.
-            if (location != null) {
-                // Logic to handle location object
-                try {
-                    addresses = gcd.getFromLocation(location.getLatitude(), location.getLongitude(), 1);
-                    if (addresses != null && addresses.size() > 0) {
-                        Log.d("locationDebug", "location is :" + addresses.get(0).getAdminArea());
-                        getDataFromApi(addresses.get(0).getAdminArea());
-                    }
-                } catch (IOException e) {
-                    throw new RuntimeException(e);
-                }
-            }
-        });
+        getDataFromApi("HoChiMinh");
 
 //        getDataFromApi("SaiGon");
 
