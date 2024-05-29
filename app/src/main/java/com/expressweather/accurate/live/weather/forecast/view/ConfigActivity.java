@@ -44,7 +44,7 @@ public class ConfigActivity extends BaseActivity<ActivityConfigBinding> {
             binding.tvDegreeF.performClick();
         }
 
-        // Đặt phương thức getInt lấy giá trị của WIND_SPEED_UNIT
+        // Đặt phương thức getInt lấy giá trị của WIND_SPEED_UNIT chuyển đổi đơn vị tốc độ gió
         int windSpeedUnit = SharePrefUtils.getInt(SharePrefUtils.WIND_SPEED_UNIT, Constants.WIND_SPEED_KM_PER_H);
         switch (windSpeedUnit) {
             case Constants.WIND_SPEED_KM_PER_H:
@@ -63,7 +63,8 @@ public class ConfigActivity extends BaseActivity<ActivityConfigBinding> {
                 binding.tvFtS.performClick();
                 break;
         }
-        
+
+        // Đặt phương thức getInt lấy giá trị của PRESSURE_UNIT chuyển đổi đơn vị áp suất
         int pressureUnit = SharePrefUtils.getInt(SharePrefUtils.PRESSURE_UNIT, Constants.PRESSURE_HPA);
         switch (pressureUnit) {
             case Constants.PRESSURE_HPA:
@@ -77,6 +78,7 @@ public class ConfigActivity extends BaseActivity<ActivityConfigBinding> {
                 break;
         }
 
+        // Đặt phương thức getInt lấy giá trị của PRECIPITATION_UNIT chuyển đổi đơn vị lượng mưa
         int precipitationUnit = SharePrefUtils.getInt(SharePrefUtils.PRECIPITATION_UNIT, Constants.PRECIPITATION_MM);
         switch (precipitationUnit) {
             case Constants.PRECIPITATION_MM:
