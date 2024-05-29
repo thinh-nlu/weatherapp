@@ -6,216 +6,216 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="24"
-8-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml
+8-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="34" />
-9-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml
+9-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
-11-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:5:5-77
-11-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:5:22-74
+11-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:5:5-77
+11-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:5:22-74
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:6:5-67
-12-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:6:22-64
+12-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:6:5-67
+12-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:6:22-64
 13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-13-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:7:5-79
-13-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:7:22-76
+13-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:7:5-79
+13-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:7:22-76
 14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-14-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:8:5-81
-14-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:8:22-78
+14-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:8:5-81
+14-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:8:22-78
 15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-15-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:9:5-79
-15-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:9:22-76
+15-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:9:5-79
+15-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:9:22-76
 16
 17    <queries>
-17-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:11:5-15:15
+17-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:11:5-15:15
 18        <intent>
-18-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:12:9-14:18
+18-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:12:9-14:18
 19            <action android:name="android.intent.action.MAIN" />
-19-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:13:13-65
-19-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:13:21-62
+19-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:13:13-65
+19-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:13:21-62
 20        </intent>
 21        <!-- Needs to be explicitly declared on Android R+ -->
 22        <package android:name="com.google.android.apps.maps" />
-22-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\thinh\.gradle\caches\transforms-3\5ba971dd090c0eca319360080fa8e642\transformed\play-services-maps-18.1.0\AndroidManifest.xml:33:9-64
-22-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\thinh\.gradle\caches\transforms-3\5ba971dd090c0eca319360080fa8e642\transformed\play-services-maps-18.1.0\AndroidManifest.xml:33:18-61
+22-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Luan\.gradle\caches\transforms-3\5ba971dd090c0eca319360080fa8e642\transformed\play-services-maps-18.1.0\AndroidManifest.xml:33:9-64
+22-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Luan\.gradle\caches\transforms-3\5ba971dd090c0eca319360080fa8e642\transformed\play-services-maps-18.1.0\AndroidManifest.xml:33:18-61
 23    </queries>
 24
 25    <uses-feature
-25-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\thinh\.gradle\caches\transforms-3\5ba971dd090c0eca319360080fa8e642\transformed\play-services-maps-18.1.0\AndroidManifest.xml:26:5-28:35
+25-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Luan\.gradle\caches\transforms-3\5ba971dd090c0eca319360080fa8e642\transformed\play-services-maps-18.1.0\AndroidManifest.xml:26:5-28:35
 26        android:glEsVersion="0x00020000"
-26-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\thinh\.gradle\caches\transforms-3\5ba971dd090c0eca319360080fa8e642\transformed\play-services-maps-18.1.0\AndroidManifest.xml:27:9-41
+26-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Luan\.gradle\caches\transforms-3\5ba971dd090c0eca319360080fa8e642\transformed\play-services-maps-18.1.0\AndroidManifest.xml:27:9-41
 27        android:required="true" />
-27-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\thinh\.gradle\caches\transforms-3\5ba971dd090c0eca319360080fa8e642\transformed\play-services-maps-18.1.0\AndroidManifest.xml:28:9-32
+27-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Luan\.gradle\caches\transforms-3\5ba971dd090c0eca319360080fa8e642\transformed\play-services-maps-18.1.0\AndroidManifest.xml:28:9-32
 28
 29    <permission
-29-->[androidx.core:core:1.9.0] C:\Users\thinh\.gradle\caches\transforms-3\9fa1cf3d05bd1ef5c37cab06e0cd7cfa\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+29-->[androidx.core:core:1.9.0] C:\Users\Luan\.gradle\caches\transforms-3\9fa1cf3d05bd1ef5c37cab06e0cd7cfa\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
 30        android:name="com.expressweather.accurate.live.weather.forecast.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-30-->[androidx.core:core:1.9.0] C:\Users\thinh\.gradle\caches\transforms-3\9fa1cf3d05bd1ef5c37cab06e0cd7cfa\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+30-->[androidx.core:core:1.9.0] C:\Users\Luan\.gradle\caches\transforms-3\9fa1cf3d05bd1ef5c37cab06e0cd7cfa\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
 31        android:protectionLevel="signature" />
-31-->[androidx.core:core:1.9.0] C:\Users\thinh\.gradle\caches\transforms-3\9fa1cf3d05bd1ef5c37cab06e0cd7cfa\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+31-->[androidx.core:core:1.9.0] C:\Users\Luan\.gradle\caches\transforms-3\9fa1cf3d05bd1ef5c37cab06e0cd7cfa\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
 32
 33    <uses-permission android:name="com.expressweather.accurate.live.weather.forecast.dev.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-33-->[androidx.core:core:1.9.0] C:\Users\thinh\.gradle\caches\transforms-3\9fa1cf3d05bd1ef5c37cab06e0cd7cfa\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
-33-->[androidx.core:core:1.9.0] C:\Users\thinh\.gradle\caches\transforms-3\9fa1cf3d05bd1ef5c37cab06e0cd7cfa\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+33-->[androidx.core:core:1.9.0] C:\Users\Luan\.gradle\caches\transforms-3\9fa1cf3d05bd1ef5c37cab06e0cd7cfa\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+33-->[androidx.core:core:1.9.0] C:\Users\Luan\.gradle\caches\transforms-3\9fa1cf3d05bd1ef5c37cab06e0cd7cfa\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 34
 35    <application
-35-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:17:5-69:19
+35-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:17:5-69:19
 36        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-36-->[androidx.core:core:1.9.0] C:\Users\thinh\.gradle\caches\transforms-3\9fa1cf3d05bd1ef5c37cab06e0cd7cfa\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+36-->[androidx.core:core:1.9.0] C:\Users\Luan\.gradle\caches\transforms-3\9fa1cf3d05bd1ef5c37cab06e0cd7cfa\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 37        android:debuggable="true"
 38        android:extractNativeLibs="false"
 39        android:icon="@mipmap/ic_launcher"
-39-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:18:9-43
+39-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:18:9-43
 40        android:label="@string/app_name"
-40-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:19:9-41
+40-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:19:9-41
 41        android:supportsRtl="true"
-41-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:20:9-35
+41-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:20:9-35
 42        android:theme="@style/Theme.AppTheme" >
-42-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:21:9-46
+42-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:21:9-46
 43        <activity
-43-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:23:9-26:51
+43-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:23:9-26:51
 44            android:name="com.expressweather.accurate.live.weather.forecast.view.search.SearchWeatherResultActivity"
-44-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:24:13-68
+44-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:24:13-68
 45            android:exported="false"
-45-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:25:13-37
+45-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:25:13-37
 46            android:screenOrientation="portrait" />
-46-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:26:13-49
+46-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:26:13-49
 47        <activity
-47-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:27:9-30:52
+47-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:27:9-30:52
 48            android:name="com.expressweather.accurate.live.weather.forecast.view.search.SearchActivity"
-48-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:28:13-55
+48-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:28:13-55
 49            android:exported="false"
-49-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:29:13-37
+49-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:29:13-37
 50            android:screenOrientation="portrait" />
-50-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:30:13-49
+50-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:30:13-49
 51        <activity
-51-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:31:9-34:52
+51-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:31:9-34:52
 52            android:name="com.expressweather.accurate.live.weather.forecast.view.ten_days_forecast.TenDaysActivity"
-52-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:32:13-67
+52-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:32:13-67
 53            android:exported="false"
-53-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:33:13-37
+53-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:33:13-37
 54            android:screenOrientation="portrait" />
-54-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:34:13-49
+54-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:34:13-49
 55        <activity
-55-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:35:9-38:52
+55-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:35:9-38:52
 56            android:name="com.expressweather.accurate.live.weather.forecast.view.PolicyActivity"
-56-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:36:13-48
+56-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:36:13-48
 57            android:exported="false"
-57-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:37:13-37
+57-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:37:13-37
 58            android:screenOrientation="portrait" />
-58-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:38:13-49
+58-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:38:13-49
 59        <activity
-59-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:39:9-42:52
+59-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:39:9-42:52
 60            android:name="com.expressweather.accurate.live.weather.forecast.view.config.ConfigActivity"
-60-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:40:13-55
+60-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:40:13-55
 61            android:exported="false"
-61-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:41:13-37
+61-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:41:13-37
 62            android:screenOrientation="portrait" />
-62-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:42:13-49
+62-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:42:13-49
 63        <activity
-63-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:43:9-46:52
+63-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:43:9-46:52
 64            android:name="com.expressweather.accurate.live.weather.forecast.view.language.LanguageActivity"
-64-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:44:13-59
+64-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:44:13-59
 65            android:exported="false"
-65-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:45:13-37
+65-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:45:13-37
 66            android:screenOrientation="portrait" />
-66-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:46:13-49
+66-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:46:13-49
 67        <activity
-67-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:47:9-50:52
+67-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:47:9-50:52
 68            android:name="com.expressweather.accurate.live.weather.forecast.view.MainActivity"
-68-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:48:13-46
+68-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:48:13-46
 69            android:exported="false"
-69-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:49:13-37
+69-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:49:13-37
 70            android:screenOrientation="portrait" />
-70-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:50:13-49
+70-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:50:13-49
 71        <activity
-71-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:51:9-60:20
+71-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:51:9-60:20
 72            android:name="com.expressweather.accurate.live.weather.forecast.view.SplashActivity"
-72-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:52:13-48
+72-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:52:13-48
 73            android:exported="true"
-73-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:53:13-36
+73-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:53:13-36
 74            android:screenOrientation="portrait" >
-74-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:54:13-49
+74-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:54:13-49
 75            <intent-filter>
-75-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:55:13-59:29
+75-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:55:13-59:29
 76                <action android:name="android.intent.action.MAIN" />
-76-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:13:13-65
-76-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:13:21-62
+76-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:13:13-65
+76-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:13:21-62
 77
 78                <category android:name="android.intent.category.LAUNCHER" />
-78-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:58:17-77
-78-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:58:27-74
+78-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:58:17-77
+78-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:58:27-74
 79            </intent-filter>
 80        </activity>
 81        <activity
-81-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:61:9-64:52
+81-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:61:9-64:52
 82            android:name="com.expressweather.accurate.live.weather.forecast.view.intro.IntroActivity"
-82-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:62:13-53
+82-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:62:13-53
 83            android:exported="false"
-83-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:63:13-37
+83-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:63:13-37
 84            android:screenOrientation="portrait" />
-84-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:64:13-49
+84-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:64:13-49
 85        <activity
-85-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:65:9-68:52
+85-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:65:9-68:52
 86            android:name="com.expressweather.accurate.live.weather.forecast.view.PermissionActivity"
-86-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:66:13-52
+86-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:66:13-52
 87            android:exported="false"
-87-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:67:13-37
+87-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:67:13-37
 88            android:screenOrientation="portrait" />
-88-->D:\New folder\NTD\app146_weather\app\src\main\AndroidManifest.xml:68:13-49
+88-->D:\TRUONGTHINH\weatherapp\app\src\main\AndroidManifest.xml:68:13-49
 89        <!-- Needs to be explicitly declared on P+ -->
 90        <uses-library
-90-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\thinh\.gradle\caches\transforms-3\5ba971dd090c0eca319360080fa8e642\transformed\play-services-maps-18.1.0\AndroidManifest.xml:39:9-41:40
+90-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Luan\.gradle\caches\transforms-3\5ba971dd090c0eca319360080fa8e642\transformed\play-services-maps-18.1.0\AndroidManifest.xml:39:9-41:40
 91            android:name="org.apache.http.legacy"
-91-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\thinh\.gradle\caches\transforms-3\5ba971dd090c0eca319360080fa8e642\transformed\play-services-maps-18.1.0\AndroidManifest.xml:40:13-50
+91-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Luan\.gradle\caches\transforms-3\5ba971dd090c0eca319360080fa8e642\transformed\play-services-maps-18.1.0\AndroidManifest.xml:40:13-50
 92            android:required="false" />
-92-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\thinh\.gradle\caches\transforms-3\5ba971dd090c0eca319360080fa8e642\transformed\play-services-maps-18.1.0\AndroidManifest.xml:41:13-37
+92-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Luan\.gradle\caches\transforms-3\5ba971dd090c0eca319360080fa8e642\transformed\play-services-maps-18.1.0\AndroidManifest.xml:41:13-37
 93
 94        <activity
-94-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\thinh\.gradle\caches\transforms-3\c1a094b81cdbc0cac888cbde51e4254d\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+94-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Luan\.gradle\caches\transforms-3\c1a094b81cdbc0cac888cbde51e4254d\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
 95            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-95-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\thinh\.gradle\caches\transforms-3\c1a094b81cdbc0cac888cbde51e4254d\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+95-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Luan\.gradle\caches\transforms-3\c1a094b81cdbc0cac888cbde51e4254d\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
 96            android:exported="false"
-96-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\thinh\.gradle\caches\transforms-3\c1a094b81cdbc0cac888cbde51e4254d\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+96-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Luan\.gradle\caches\transforms-3\c1a094b81cdbc0cac888cbde51e4254d\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
 97            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-97-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\thinh\.gradle\caches\transforms-3\c1a094b81cdbc0cac888cbde51e4254d\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+97-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Luan\.gradle\caches\transforms-3\c1a094b81cdbc0cac888cbde51e4254d\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
 98
 99        <meta-data
-99-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\thinh\.gradle\caches\transforms-3\38e9751afdb387650545216b2f196ebf\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+99-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Luan\.gradle\caches\transforms-3\38e9751afdb387650545216b2f196ebf\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
 100            android:name="com.google.android.gms.version"
-100-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\thinh\.gradle\caches\transforms-3\38e9751afdb387650545216b2f196ebf\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+100-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Luan\.gradle\caches\transforms-3\38e9751afdb387650545216b2f196ebf\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
 101            android:value="@integer/google_play_services_version" />
-101-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\thinh\.gradle\caches\transforms-3\38e9751afdb387650545216b2f196ebf\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+101-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Luan\.gradle\caches\transforms-3\38e9751afdb387650545216b2f196ebf\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
 102
 103        <service
-103-->[androidx.room:room-runtime:2.4.3] C:\Users\thinh\.gradle\caches\transforms-3\6e9066d698a3b2979a149caa0d4e398d\transformed\room-runtime-2.4.3\AndroidManifest.xml:25:9-28:40
+103-->[androidx.room:room-runtime:2.4.3] C:\Users\Luan\.gradle\caches\transforms-3\6e9066d698a3b2979a149caa0d4e398d\transformed\room-runtime-2.4.3\AndroidManifest.xml:25:9-28:40
 104            android:name="androidx.room.MultiInstanceInvalidationService"
-104-->[androidx.room:room-runtime:2.4.3] C:\Users\thinh\.gradle\caches\transforms-3\6e9066d698a3b2979a149caa0d4e398d\transformed\room-runtime-2.4.3\AndroidManifest.xml:26:13-74
+104-->[androidx.room:room-runtime:2.4.3] C:\Users\Luan\.gradle\caches\transforms-3\6e9066d698a3b2979a149caa0d4e398d\transformed\room-runtime-2.4.3\AndroidManifest.xml:26:13-74
 105            android:directBootAware="true"
-105-->[androidx.room:room-runtime:2.4.3] C:\Users\thinh\.gradle\caches\transforms-3\6e9066d698a3b2979a149caa0d4e398d\transformed\room-runtime-2.4.3\AndroidManifest.xml:27:13-43
+105-->[androidx.room:room-runtime:2.4.3] C:\Users\Luan\.gradle\caches\transforms-3\6e9066d698a3b2979a149caa0d4e398d\transformed\room-runtime-2.4.3\AndroidManifest.xml:27:13-43
 106            android:exported="false" />
-106-->[androidx.room:room-runtime:2.4.3] C:\Users\thinh\.gradle\caches\transforms-3\6e9066d698a3b2979a149caa0d4e398d\transformed\room-runtime-2.4.3\AndroidManifest.xml:28:13-37
+106-->[androidx.room:room-runtime:2.4.3] C:\Users\Luan\.gradle\caches\transforms-3\6e9066d698a3b2979a149caa0d4e398d\transformed\room-runtime-2.4.3\AndroidManifest.xml:28:13-37
 107
 108        <provider
-108-->[androidx.emoji2:emoji2:1.2.0] C:\Users\thinh\.gradle\caches\transforms-3\6e00ca8b9e0f44c4fa0052874a90730f\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+108-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Luan\.gradle\caches\transforms-3\6e00ca8b9e0f44c4fa0052874a90730f\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
 109            android:name="androidx.startup.InitializationProvider"
-109-->[androidx.emoji2:emoji2:1.2.0] C:\Users\thinh\.gradle\caches\transforms-3\6e00ca8b9e0f44c4fa0052874a90730f\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+109-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Luan\.gradle\caches\transforms-3\6e00ca8b9e0f44c4fa0052874a90730f\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
 110            android:authorities="com.expressweather.accurate.live.weather.forecast.dev.androidx-startup"
-110-->[androidx.emoji2:emoji2:1.2.0] C:\Users\thinh\.gradle\caches\transforms-3\6e00ca8b9e0f44c4fa0052874a90730f\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+110-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Luan\.gradle\caches\transforms-3\6e00ca8b9e0f44c4fa0052874a90730f\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
 111            android:exported="false" >
-111-->[androidx.emoji2:emoji2:1.2.0] C:\Users\thinh\.gradle\caches\transforms-3\6e00ca8b9e0f44c4fa0052874a90730f\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+111-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Luan\.gradle\caches\transforms-3\6e00ca8b9e0f44c4fa0052874a90730f\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
 112            <meta-data
-112-->[androidx.emoji2:emoji2:1.2.0] C:\Users\thinh\.gradle\caches\transforms-3\6e00ca8b9e0f44c4fa0052874a90730f\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+112-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Luan\.gradle\caches\transforms-3\6e00ca8b9e0f44c4fa0052874a90730f\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
 113                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-113-->[androidx.emoji2:emoji2:1.2.0] C:\Users\thinh\.gradle\caches\transforms-3\6e00ca8b9e0f44c4fa0052874a90730f\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+113-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Luan\.gradle\caches\transforms-3\6e00ca8b9e0f44c4fa0052874a90730f\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
 114                android:value="androidx.startup" />
-114-->[androidx.emoji2:emoji2:1.2.0] C:\Users\thinh\.gradle\caches\transforms-3\6e00ca8b9e0f44c4fa0052874a90730f\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+114-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Luan\.gradle\caches\transforms-3\6e00ca8b9e0f44c4fa0052874a90730f\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
 115            <meta-data
-115-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\thinh\.gradle\caches\transforms-3\2d29bc6902a5352988302967e346eca5\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+115-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Luan\.gradle\caches\transforms-3\2d29bc6902a5352988302967e346eca5\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
 116                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-116-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\thinh\.gradle\caches\transforms-3\2d29bc6902a5352988302967e346eca5\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+116-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Luan\.gradle\caches\transforms-3\2d29bc6902a5352988302967e346eca5\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
 117                android:value="androidx.startup" />
-117-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\thinh\.gradle\caches\transforms-3\2d29bc6902a5352988302967e346eca5\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+117-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Luan\.gradle\caches\transforms-3\2d29bc6902a5352988302967e346eca5\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
 118        </provider>
 119    </application>
 120

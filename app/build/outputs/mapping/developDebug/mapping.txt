@@ -3,8 +3,8 @@
 # min_api: 24
 # common_typos_disable
 # {"id":"com.android.tools.r8.mapping","version":"2.1"}
-# pg_map_id: 8a0a5ca
-# pg_map_hash: SHA-256 8a0a5ca4ca45b07d857d9bfc47f3cfbf04815b868ea48bcbfe12bc47b760fee5
+# pg_map_id: 99adb81
+# pg_map_hash: SHA-256 99adb81be83437b55b598e91e3b4d7fed69158485e397327868a9f16a852d288
 android.support.v4.app.RemoteActionCompatParcelizer -> android.support.v4.app.RemoteActionCompatParcelizer:
     11:11:void <init>() -> <init>
     13:13:androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel) -> read
@@ -17363,34 +17363,34 @@ com.expressweather.accurate.live.weather.forecast.view.config.ConfigActivity -> 
     0:0:void $r8$lambda$yT1u-artuRpBC3SVErrAukBHceI(com.expressweather.accurate.live.weather.forecast.view.config.ConfigActivity,java.util.List,android.view.View) -> $r8$lambda$yT1u-artuRpBC3SVErrAukBHceI
       # {"id":"com.android.tools.r8.synthesized"}
     16:16:void <init>() -> <init>
-    212:235:void handleDisplay() -> handleDisplay
-    186:209:void handlePrecipitation() -> handlePrecipitation
-    160:183:void handlePressure() -> handlePressure
-    106:117:void handleTemperatureItem() -> handleTemperatureItem
-    120:157:void handleWindSpeed() -> handleWindSpeed
+    223:246:void handleDisplay() -> handleDisplay
+    197:220:void handlePrecipitation() -> handlePrecipitation
+    171:194:void handlePressure() -> handlePressure
+    110:125:void handleTemperatureItem() -> handleTemperatureItem
+    130:168:void handleWindSpeed() -> handleWindSpeed
     27:27:void initView() -> initView
-    218:221:void lambda$handleDisplay$14(java.util.List,android.view.View) -> lambda$handleDisplay$14
-    224:227:void lambda$handleDisplay$15(java.util.List,android.view.View) -> lambda$handleDisplay$15
-    230:234:void lambda$handleDisplay$16(java.util.List,android.view.View) -> lambda$handleDisplay$16
-    192:195:void lambda$handlePrecipitation$11(java.util.List,android.view.View) -> lambda$handlePrecipitation$11
-    198:201:void lambda$handlePrecipitation$12(java.util.List,android.view.View) -> lambda$handlePrecipitation$12
-    204:208:void lambda$handlePrecipitation$13(java.util.List,android.view.View) -> lambda$handlePrecipitation$13
-    178:182:void lambda$handlePressure$10(java.util.List,android.view.View) -> lambda$handlePressure$10
-    166:169:void lambda$handlePressure$8(java.util.List,android.view.View) -> lambda$handlePressure$8
-    172:175:void lambda$handlePressure$9(java.util.List,android.view.View) -> lambda$handlePressure$9
-    107:110:void lambda$handleTemperatureItem$1(android.view.View) -> lambda$handleTemperatureItem$1
-    113:116:void lambda$handleTemperatureItem$2(android.view.View) -> lambda$handleTemperatureItem$2
-    128:131:void lambda$handleWindSpeed$3(java.util.List,android.view.View) -> lambda$handleWindSpeed$3
-    134:137:void lambda$handleWindSpeed$4(java.util.List,android.view.View) -> lambda$handleWindSpeed$4
-    140:143:void lambda$handleWindSpeed$5(java.util.List,android.view.View) -> lambda$handleWindSpeed$5
-    146:149:void lambda$handleWindSpeed$6(java.util.List,android.view.View) -> lambda$handleWindSpeed$6
-    152:156:void lambda$handleWindSpeed$7(java.util.List,android.view.View) -> lambda$handleWindSpeed$7
+    229:232:void lambda$handleDisplay$14(java.util.List,android.view.View) -> lambda$handleDisplay$14
+    235:238:void lambda$handleDisplay$15(java.util.List,android.view.View) -> lambda$handleDisplay$15
+    241:245:void lambda$handleDisplay$16(java.util.List,android.view.View) -> lambda$handleDisplay$16
+    203:206:void lambda$handlePrecipitation$11(java.util.List,android.view.View) -> lambda$handlePrecipitation$11
+    209:212:void lambda$handlePrecipitation$12(java.util.List,android.view.View) -> lambda$handlePrecipitation$12
+    215:219:void lambda$handlePrecipitation$13(java.util.List,android.view.View) -> lambda$handlePrecipitation$13
+    189:193:void lambda$handlePressure$10(java.util.List,android.view.View) -> lambda$handlePressure$10
+    177:180:void lambda$handlePressure$8(java.util.List,android.view.View) -> lambda$handlePressure$8
+    183:186:void lambda$handlePressure$9(java.util.List,android.view.View) -> lambda$handlePressure$9
+    112:116:void lambda$handleTemperatureItem$1(android.view.View) -> lambda$handleTemperatureItem$1
+    120:124:void lambda$handleTemperatureItem$2(android.view.View) -> lambda$handleTemperatureItem$2
+    139:142:void lambda$handleWindSpeed$3(java.util.List,android.view.View) -> lambda$handleWindSpeed$3
+    145:148:void lambda$handleWindSpeed$4(java.util.List,android.view.View) -> lambda$handleWindSpeed$4
+    151:154:void lambda$handleWindSpeed$5(java.util.List,android.view.View) -> lambda$handleWindSpeed$5
+    157:160:void lambda$handleWindSpeed$6(java.util.List,android.view.View) -> lambda$handleWindSpeed$6
+    163:167:void lambda$handleWindSpeed$7(java.util.List,android.view.View) -> lambda$handleWindSpeed$7
     37:37:void lambda$viewListener$0(android.view.View) -> lambda$viewListener$0
-    247:259:void onBackPressed() -> onBackPressed
-    238:243:void setBgItemNonSelect(java.util.List) -> setBgItemNonSelect
+    258:270:void onBackPressed() -> onBackPressed
+    249:254:void setBgItemNonSelect(java.util.List) -> setBgItemNonSelect
     16:16:androidx.viewbinding.ViewBinding setViewBinding() -> setViewBinding
     21:21:com.expressweather.accurate.live.weather.forecast.databinding.ActivityConfigBinding setViewBinding() -> setViewBinding
-    31:103:void viewListener() -> viewListener
+    31:107:void viewListener() -> viewListener
 com.expressweather.accurate.live.weather.forecast.view.config.ConfigActivity$$ExternalSyntheticLambda0 -> com.expressweather.accurate.live.weather.forecast.view.config.ConfigActivity$$ExternalSyntheticLambda0:
 # {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
 # {"id":"com.android.tools.r8.synthesized"}
@@ -17671,15 +17671,15 @@ com.expressweather.accurate.live.weather.forecast.view.language.LanguageActivity
     0:0:void $r8$lambda$tamx0vNuPZx-xLaePOetvwm0prI(com.expressweather.accurate.live.weather.forecast.view.language.LanguageActivity,android.view.View) -> $r8$lambda$tamx0vNuPZx-xLaePOetvwm0prI
       # {"id":"com.android.tools.r8.synthesized"}
     24:27:void <init>() -> <init>
-    68:71:void getIntentData() -> getIntentData
-    74:89:void initData() -> initData
-    36:54:void initView() -> initView
-    38:38:void lambda$initView$0(java.lang.String) -> lambda$initView$0
-    58:58:void lambda$viewListener$1(android.view.View) -> lambda$viewListener$1
-    61:64:void lambda$viewListener$2(android.view.View) -> lambda$viewListener$2
+    70:73:void getIntentData() -> getIntentData
+    76:91:void initData() -> initData
+    36:55:void initView() -> initView
+    39:39:void lambda$initView$0(java.lang.String) -> lambda$initView$0
+    60:60:void lambda$viewListener$1(android.view.View) -> lambda$viewListener$1
+    63:66:void lambda$viewListener$2(android.view.View) -> lambda$viewListener$2
     24:24:androidx.viewbinding.ViewBinding setViewBinding() -> setViewBinding
     31:31:com.expressweather.accurate.live.weather.forecast.databinding.ActivityLanguageBinding setViewBinding() -> setViewBinding
-    58:65:void viewListener() -> viewListener
+    60:67:void viewListener() -> viewListener
 com.expressweather.accurate.live.weather.forecast.view.language.LanguageActivity$$ExternalSyntheticLambda0 -> com.expressweather.accurate.live.weather.forecast.view.language.LanguageActivity$$ExternalSyntheticLambda0:
 # {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
 # {"id":"com.android.tools.r8.synthesized"}
@@ -17707,14 +17707,14 @@ com.expressweather.accurate.live.weather.forecast.view.language.LanguageActivity
 com.expressweather.accurate.live.weather.forecast.view.language.adapter.LanguageStartAdapter -> com.expressweather.accurate.live.weather.forecast.view.language.adapter.LanguageStartAdapter:
     0:0:void $r8$lambda$-8QwMnKJjYJqL6nXBdybj24eRT4(com.expressweather.accurate.live.weather.forecast.view.language.adapter.LanguageStartAdapter,com.expressweather.accurate.live.weather.forecast.model.LanguageModel,android.view.View) -> $r8$lambda$-8QwMnKJjYJqL6nXBdybj24eRT4
       # {"id":"com.android.tools.r8.synthesized"}
-    24:28:void <init>(java.util.List,com.expressweather.accurate.live.weather.forecast.view.language.adapter.LanguageStartAdapter$ILanguageItem,android.content.Context) -> <init>
-    88:91:int getItemCount() -> getItemCount
-    79:82:void lambda$onBindViewHolder$0(com.expressweather.accurate.live.weather.forecast.model.LanguageModel,android.view.View) -> lambda$onBindViewHolder$0
-    19:19:void onBindViewHolder(androidx.recyclerview.widget.RecyclerView$ViewHolder,int) -> onBindViewHolder
-    39:84:void onBindViewHolder(com.expressweather.accurate.live.weather.forecast.view.language.adapter.LanguageStartAdapter$LanguageViewHolder,int) -> onBindViewHolder
-    19:19:androidx.recyclerview.widget.RecyclerView$ViewHolder onCreateViewHolder(android.view.ViewGroup,int) -> onCreateViewHolder
-    33:34:com.expressweather.accurate.live.weather.forecast.view.language.adapter.LanguageStartAdapter$LanguageViewHolder onCreateViewHolder(android.view.ViewGroup,int) -> onCreateViewHolder
-    96:100:void setCheck(java.lang.String) -> setCheck
+    25:29:void <init>(java.util.List,com.expressweather.accurate.live.weather.forecast.view.language.adapter.LanguageStartAdapter$ILanguageItem,android.content.Context) -> <init>
+    90:93:int getItemCount() -> getItemCount
+    81:84:void lambda$onBindViewHolder$0(com.expressweather.accurate.live.weather.forecast.model.LanguageModel,android.view.View) -> lambda$onBindViewHolder$0
+    20:20:void onBindViewHolder(androidx.recyclerview.widget.RecyclerView$ViewHolder,int) -> onBindViewHolder
+    41:86:void onBindViewHolder(com.expressweather.accurate.live.weather.forecast.view.language.adapter.LanguageStartAdapter$LanguageViewHolder,int) -> onBindViewHolder
+    20:20:androidx.recyclerview.widget.RecyclerView$ViewHolder onCreateViewHolder(android.view.ViewGroup,int) -> onCreateViewHolder
+    34:35:com.expressweather.accurate.live.weather.forecast.view.language.adapter.LanguageStartAdapter$LanguageViewHolder onCreateViewHolder(android.view.ViewGroup,int) -> onCreateViewHolder
+    98:102:void setCheck(java.lang.String) -> setCheck
 com.expressweather.accurate.live.weather.forecast.view.language.adapter.LanguageStartAdapter$$ExternalSyntheticLambda0 -> com.expressweather.accurate.live.weather.forecast.view.language.adapter.LanguageStartAdapter$$ExternalSyntheticLambda0:
 # {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
 # {"id":"com.android.tools.r8.synthesized"}
@@ -17725,11 +17725,11 @@ com.expressweather.accurate.live.weather.forecast.view.language.adapter.Language
     0:0:void com.expressweather.accurate.live.weather.forecast.view.language.adapter.LanguageStartAdapter$$InternalSyntheticLambda$2$dfdba943bfd95d10c23a29dddb8c588ee28ed5dd9c178f33342c156a25d248a0$0.onClick(android.view.View) -> onClick
       # {"id":"com.android.tools.r8.synthesized"}
 com.expressweather.accurate.live.weather.forecast.view.language.adapter.LanguageStartAdapter$LanguageViewHolder -> com.expressweather.accurate.live.weather.forecast.view.language.adapter.LanguageStartAdapter$LanguageViewHolder:
-    113:118:void <init>(android.view.View) -> <init>
-    106:106:android.widget.TextView access$000(com.expressweather.accurate.live.weather.forecast.view.language.adapter.LanguageStartAdapter$LanguageViewHolder) -> access$000
-    106:106:android.widget.ImageView access$100(com.expressweather.accurate.live.weather.forecast.view.language.adapter.LanguageStartAdapter$LanguageViewHolder) -> access$100
-    106:106:android.widget.ImageView access$200(com.expressweather.accurate.live.weather.forecast.view.language.adapter.LanguageStartAdapter$LanguageViewHolder) -> access$200
-    106:106:android.view.View access$300(com.expressweather.accurate.live.weather.forecast.view.language.adapter.LanguageStartAdapter$LanguageViewHolder) -> access$300
+    116:121:void <init>(android.view.View) -> <init>
+    109:109:android.widget.TextView access$000(com.expressweather.accurate.live.weather.forecast.view.language.adapter.LanguageStartAdapter$LanguageViewHolder) -> access$000
+    109:109:android.widget.ImageView access$100(com.expressweather.accurate.live.weather.forecast.view.language.adapter.LanguageStartAdapter$LanguageViewHolder) -> access$100
+    109:109:android.widget.ImageView access$200(com.expressweather.accurate.live.weather.forecast.view.language.adapter.LanguageStartAdapter$LanguageViewHolder) -> access$200
+    109:109:android.view.View access$300(com.expressweather.accurate.live.weather.forecast.view.language.adapter.LanguageStartAdapter$LanguageViewHolder) -> access$300
 com.expressweather.accurate.live.weather.forecast.view.search.SearchActivity -> com.expressweather.accurate.live.weather.forecast.view.search.SearchActivity:
     0:0:void $r8$lambda$47lrsKD8Cl7qxWky5iBGTwI4v4A(com.expressweather.accurate.live.weather.forecast.view.search.SearchActivity,android.view.View) -> $r8$lambda$47lrsKD8Cl7qxWky5iBGTwI4v4A
       # {"id":"com.android.tools.r8.synthesized"}
@@ -17945,28 +17945,28 @@ com.expressweather.accurate.live.weather.forecast.view.search.adapter.SearchWeat
     56:56:android.widget.TextView access$300(com.expressweather.accurate.live.weather.forecast.view.search.adapter.SearchWeatherAdapter$SearchWeatherViewHolder) -> access$300
     56:56:android.widget.TextView access$400(com.expressweather.accurate.live.weather.forecast.view.search.adapter.SearchWeatherAdapter$SearchWeatherViewHolder) -> access$400
 com.expressweather.accurate.live.weather.forecast.view.ten_days_forecast.PrecipitationAdapter -> com.expressweather.accurate.live.weather.forecast.view.ten_days_forecast.PrecipitationAdapter:
-    29:38:void <init>(java.util.List,android.content.Context) -> <init>
-    120:120:int getItemCount() -> getItemCount
-    102:116:void getRangeTemperature() -> getRangeTemperature
-    25:25:void onBindViewHolder(androidx.recyclerview.widget.RecyclerView$ViewHolder,int) -> onBindViewHolder
-    49:99:void onBindViewHolder(com.expressweather.accurate.live.weather.forecast.view.ten_days_forecast.PrecipitationAdapter$PrecipitationViewHolder,int) -> onBindViewHolder
-    25:25:androidx.recyclerview.widget.RecyclerView$ViewHolder onCreateViewHolder(android.view.ViewGroup,int) -> onCreateViewHolder
-    43:44:com.expressweather.accurate.live.weather.forecast.view.ten_days_forecast.PrecipitationAdapter$PrecipitationViewHolder onCreateViewHolder(android.view.ViewGroup,int) -> onCreateViewHolder
+    32:46:void <init>(java.util.List,android.content.Context) -> <init>
+    131:131:int getItemCount() -> getItemCount
+    113:127:void getRangeTemperature() -> getRangeTemperature
+    28:28:void onBindViewHolder(androidx.recyclerview.widget.RecyclerView$ViewHolder,int) -> onBindViewHolder
+    57:109:void onBindViewHolder(com.expressweather.accurate.live.weather.forecast.view.ten_days_forecast.PrecipitationAdapter$PrecipitationViewHolder,int) -> onBindViewHolder
+    28:28:androidx.recyclerview.widget.RecyclerView$ViewHolder onCreateViewHolder(android.view.ViewGroup,int) -> onCreateViewHolder
+    51:52:com.expressweather.accurate.live.weather.forecast.view.ten_days_forecast.PrecipitationAdapter$PrecipitationViewHolder onCreateViewHolder(android.view.ViewGroup,int) -> onCreateViewHolder
 com.expressweather.accurate.live.weather.forecast.view.ten_days_forecast.PrecipitationAdapter$1 -> com.expressweather.accurate.live.weather.forecast.view.ten_days_forecast.PrecipitationAdapter$1:
-    80:80:void <init>(com.expressweather.accurate.live.weather.forecast.view.ten_days_forecast.PrecipitationAdapter,com.expressweather.accurate.live.weather.forecast.view.ten_days_forecast.PrecipitationAdapter$PrecipitationViewHolder,com.expressweather.accurate.live.weather.forecast.model.network_model.Weather) -> <init>
-    83:97:void onGlobalLayout() -> onGlobalLayout
+    91:91:void <init>(com.expressweather.accurate.live.weather.forecast.view.ten_days_forecast.PrecipitationAdapter,com.expressweather.accurate.live.weather.forecast.view.ten_days_forecast.PrecipitationAdapter$PrecipitationViewHolder,com.expressweather.accurate.live.weather.forecast.model.network_model.Weather) -> <init>
+    94:107:void onGlobalLayout() -> onGlobalLayout
 com.expressweather.accurate.live.weather.forecast.view.ten_days_forecast.PrecipitationAdapter$PrecipitationViewHolder -> com.expressweather.accurate.live.weather.forecast.view.ten_days_forecast.PrecipitationAdapter$PrecipitationViewHolder:
-    132:141:void <init>(android.view.View) -> <init>
+    144:153:void <init>(android.view.View) -> <init>
 com.expressweather.accurate.live.weather.forecast.view.ten_days_forecast.TenDaysActivity -> com.expressweather.accurate.live.weather.forecast.view.ten_days_forecast.TenDaysActivity:
     0:0:void $r8$lambda$oEFv-j6EEkH_0icjQgZjnMjeb6s(com.expressweather.accurate.live.weather.forecast.view.ten_days_forecast.TenDaysActivity,android.view.View) -> $r8$lambda$oEFv-j6EEkH_0icjQgZjnMjeb6s
       # {"id":"com.android.tools.r8.synthesized"}
-    15:15:void <init>() -> <init>
-    23:27:void initView() -> initView
-    31:31:void lambda$viewListener$0(android.view.View) -> lambda$viewListener$0
-    35:40:void setDataWeather(com.expressweather.accurate.live.weather.forecast.model.network_model.RootModel) -> setDataWeather
-    15:15:androidx.viewbinding.ViewBinding setViewBinding() -> setViewBinding
-    18:18:com.expressweather.accurate.live.weather.forecast.databinding.ActivityTenDaysBinding setViewBinding() -> setViewBinding
-    31:32:void viewListener() -> viewListener
+    18:18:void <init>() -> <init>
+    36:41:void initView() -> initView
+    49:49:void lambda$viewListener$0(android.view.View) -> lambda$viewListener$0
+    59:65:void setDataWeather(com.expressweather.accurate.live.weather.forecast.model.network_model.RootModel) -> setDataWeather
+    18:18:androidx.viewbinding.ViewBinding setViewBinding() -> setViewBinding
+    27:27:com.expressweather.accurate.live.weather.forecast.databinding.ActivityTenDaysBinding setViewBinding() -> setViewBinding
+    49:50:void viewListener() -> viewListener
 com.expressweather.accurate.live.weather.forecast.view.ten_days_forecast.TenDaysActivity$$ExternalSyntheticLambda0 -> com.expressweather.accurate.live.weather.forecast.view.ten_days_forecast.TenDaysActivity$$ExternalSyntheticLambda0:
 # {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
 # {"id":"com.android.tools.r8.synthesized"}
