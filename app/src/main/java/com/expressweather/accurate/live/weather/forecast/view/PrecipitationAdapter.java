@@ -22,6 +22,9 @@ import java.util.Calendar;
 import java.util.List;
 import java.util.Locale;
 
+/**
+ * Adapter for displaying precipitation weather data in a RecyclerView.
+ */
 public class PrecipitationAdapter extends RecyclerView.Adapter<PrecipitationAdapter.PrecipitationViewHolder> {
     List<Weather> listWeather;
     int maxTempList;
@@ -30,6 +33,11 @@ public class PrecipitationAdapter extends RecyclerView.Adapter<PrecipitationAdap
     private final Context context;
     boolean isDegreeC;
 
+    /**
+     * Constructor for the PrecipitationAdapter.
+     * @param listPre The list of weather data to be displayed.
+     * @param context The context of the calling activity.
+     */
     public PrecipitationAdapter(@NonNull List<Weather> listPre, Context context) {
         this.listWeather = listPre;
         this.context = context;
@@ -48,16 +56,17 @@ public class PrecipitationAdapter extends RecyclerView.Adapter<PrecipitationAdap
     public void onBindViewHolder(@NonNull PrecipitationViewHolder holder, int position) {
         Weather weather = listWeather.get(position);
 
+        // Set temperature text based on selected temperature unit
         holder.tvDegreeStart.setText((isDegreeC ? weather.mintempC : weather.mintempF) + "°");
         holder.tvDegreeEnd.setText((isDegreeC ? weather.maxtempC : weather.maxtempF) + "°");
+
+        // Set date and weekday text
         String date = weather.date;
         Calendar calendar = Calendar.getInstance();
-
         int indexY = date.indexOf("-");
         int indexM = date.lastIndexOf("-");
         String month = date.substring(indexY + 1, indexM);
         String day = date.substring(indexM + 1);
-
         calendar.set(Calendar.MONTH, Integer.parseInt(month) - 1);
         calendar.set(Calendar.DAY_OF_MONTH, Integer.parseInt(day));
         holder.tvDate.setText(day + "/" + month);
@@ -69,13 +78,15 @@ public class PrecipitationAdapter extends RecyclerView.Adapter<PrecipitationAdap
             holder.tvWeekDay.setText(weekDayFinal);
         }
 
+        // Hide bottom line for last item
         if (position == (listWeather.size() - 1)) {
             holder.lineBottom.setVisibility(View.INVISIBLE);
         }
 
-        //get weather at 12:00 am
+        // Set weather icon
         holder.imgWeather.setImageResource(WeatherState.getImageWeather(weather.hourly.get(4).weatherDesc.get(0).value));
 
+        // Set temperature bar based on weather data
         ViewTreeObserver vto = holder.barTempBg.getViewTreeObserver();
         vto.addOnGlobalLayoutListener(new ViewTreeObserver.OnGlobalLayoutListener() {
             @Override
@@ -93,11 +104,11 @@ public class PrecipitationAdapter extends RecyclerView.Adapter<PrecipitationAdap
                 ViewGroup.MarginLayoutParams params = (ViewGroup.MarginLayoutParams) holder.barTemp.getLayoutParams();
                 params.setMargins((minTempWeather - minTempList) * unit, 0, (maxTempList - maxTempWeather) * unit, 0);
                 holder.barTemp.setLayoutParams(params);
-
             }
         });
     }
 
+    // Method to calculate the range of temperature in the provided weather data
     private void getRangeTemperature() {
         maxTempList = Integer.parseInt(listWeather.get(0).maxtempC);
         minTempList = Integer.parseInt(listWeather.get(0).mintempC);
@@ -120,6 +131,7 @@ public class PrecipitationAdapter extends RecyclerView.Adapter<PrecipitationAdap
         return listWeather.size();
     }
 
+    // ViewHolder class for the RecyclerView items
     static class PrecipitationViewHolder extends RecyclerView.ViewHolder {
         TextView tvDegreeStart;
         TextView tvDegreeEnd;
