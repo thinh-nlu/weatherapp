@@ -22,7 +22,7 @@
     <string name="and">and</string>
     <string name="app_name" translatable="false">Weather</string>
     <string name="cancel">Cancel</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">39a77c1bc67243c38f55827b30499582</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">f45ed7a648a04e8c97f87c2ffea3d613</string>
     <string name="config">Config</string>
     <string name="could_not_find_location">Could not find the location</string>
     <string name="default_web_client_id" translatable="false">1026371924646-mqg46o5ls09e59eaifd891qnr7ud4l4f.apps.googleusercontent.com</string>

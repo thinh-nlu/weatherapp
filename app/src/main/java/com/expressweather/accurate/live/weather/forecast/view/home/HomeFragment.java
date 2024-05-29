@@ -33,7 +33,7 @@ import com.expressweather.accurate.live.weather.forecast.model.network_model.Hou
 import com.expressweather.accurate.live.weather.forecast.model.network_model.NearestArea;
 import com.expressweather.accurate.live.weather.forecast.model.network_model.RootModel;
 import com.expressweather.accurate.live.weather.forecast.model.network_model.Weather;
-import com.expressweather.accurate.live.weather.forecast.view.ten_days_forecast.TenDaysActivity;
+import com.expressweather.accurate.live.weather.forecast.view.ten_days_forecast.ThreeDaysActivity;
 
 import java.util.ArrayList;
 import java.util.Calendar;
@@ -84,7 +84,7 @@ public class HomeFragment extends BaseFragment<FragmentHomeBinding> {
     @Override
     protected void viewListener() {
         binding.layoutInfo.tvNext10days.setOnClickListener(view -> {
-            Intent intent = new Intent(requireActivity(), TenDaysActivity.class);
+            Intent intent = new Intent(requireActivity(), ThreeDaysActivity.class);
             intent.putExtra(SharePrefUtils.WEATHER_LOCATION_SELECTED, rootModel);
             startActivity(intent);
         });

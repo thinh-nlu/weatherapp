@@ -32,7 +32,7 @@ import com.expressweather.accurate.live.weather.forecast.utils.Constants;
 import com.expressweather.accurate.live.weather.forecast.utils.SharePrefUtils;
 import com.expressweather.accurate.live.weather.forecast.view.MainActivity;
 import com.expressweather.accurate.live.weather.forecast.view.home.TimeWeatherAdapter;
-import com.expressweather.accurate.live.weather.forecast.view.ten_days_forecast.TenDaysActivity;
+import com.expressweather.accurate.live.weather.forecast.view.ten_days_forecast.ThreeDaysActivity;
 import com.google.android.material.appbar.AppBarLayout;
 
 import java.util.ArrayList;
@@ -70,7 +70,7 @@ public class SearchWeatherResultActivity extends BaseActivity<ActivitySearchWeat
     @Override
     protected void viewListener() {
         binding.layoutInfo.tvNext10days.setOnClickListener(view -> {
-            Intent intent = new Intent(this, TenDaysActivity.class);
+            Intent intent = new Intent(this, ThreeDaysActivity.class);
             intent.putExtra(SharePrefUtils.WEATHER_LOCATION_SELECTED, rootModel);
             startActivity(intent);}
         );

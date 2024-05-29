@@ -15,7 +15,7 @@ import java.util.ArrayList;
 /**
  * Activity for displaying 10-day forecast
  */
-public class TenDaysActivity extends BaseActivity<ActivityTenDaysBinding> {
+public class ThreeDaysActivity extends BaseActivity<ActivityTenDaysBinding> {
 
     /**
      * This method is called to set the binding for the layout

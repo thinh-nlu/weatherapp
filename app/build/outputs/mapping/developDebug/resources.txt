@@ -1,337 +1,337 @@
-Marking string:gps_is_turn_on:2131755098 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:imgApp:2131296522 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:imgClose:2131296524 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:lineSetting:2131296599 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:lvGeneral:2131296610 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:lvSetting:2131296611 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvAppName:2131296872 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvGeneral:2131296892 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvSetting:2131296929 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:cloudy:2131165362 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:ic_cloudy:2131165405 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:partly_cloudy:2131165542 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:ic_partly_cloudy:2131165433 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:drizzle:2131165389 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:ic_drizzle:2131165411 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:ic_raining:2131165441 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:rain:2131165544 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:clear_night:2131165361 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:ic_moon:2131165426 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:ic_sunshine:2131165456 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:fog:2131165390 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:ic_frog:2131165414 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:heavy_rain:2131165395 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:snow:2131165551 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:ic_heavy_snow:2131165415 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:light_snow:2131165470 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:ic_snowy:2131165449 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:thunder:2131165553 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:ic_thunder:2131165460 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:ic_storm:2131165453 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:ic_overcast:2131165432 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:clDrawer:2131296382 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:drawer:2131296455 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:imgLoading:2131296529 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:imgOpenDrawer:2131296531 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:img_point_1:2131296555 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:img_point_2:2131296556 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:img_point_3:2131296557 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:imgSearch:2131296537 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:layoutLoading:2131296578 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:llPointHistory:2131296604 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:vpWeather:2131296984 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking layout:activity_main:2131492895 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking color:color_ABACAE:2131034162 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking color:white:2131034877 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking string:sunset:2131755254 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking string:the_dew_point_is:2131755259 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking string:right_now:2131755239 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking string:version:2131755265 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:appBar:2131296338 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:collapsingToolbar:2131296401 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:cvOpen:2131296420 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:imgIconWeather:2131296527 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:imgWeatherBg:2131296545 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:imgWeatherCollapse:2131296546 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:layoutCollapse:2131296574 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:layoutExtend:2131296576 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:layoutInfo:2131296577 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:layoutLocationCollapse:2131296579 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:layoutOpen:2131296581 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:layoutWeatherExtend:2131296586 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:lineLocation:2131296597 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:llRangeTemperature:2131296605 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:llWeather:2131296606 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:llWeatherCollapse:2131296607 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:toolbar:2131296852 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvDegree:2131296876 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvHighest:2131296897 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvLocationCollapse:2131296908 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvLowest:2131296910 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvPosition:2131296922 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvTemperature:2131296933 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvTemperatureCollapse:2131296934 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvWeather:2131296951 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvWeatherCollapse:2131296952 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:viewTransparent:2131296974 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking layout:fragment_home:2131492922 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:btn_next:2131296361 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:img_circle_1:2131296550 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:img_circle_2:2131296551 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:img_circle_3:2131296552 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:layoutDescriptionIntro:2131296575 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:ll_circle:2131296608 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:ll_intro:2131296609 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvDescriptionIntro:2131296882 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvTitleIntro:2131296938 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:vp_slide_intro:2131296985 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking layout:activity_intro:2131492893 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:imgBack:2131296523 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:rvTenPrecipitation:2131296734 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvHeader:2131296895 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking layout:activity_ten_days:2131492901 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:imgWeather:2131296544 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvLocation:2131296907 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:clAirCondition:2131296380 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:clFeelsLike:2131296383 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:clHumidity:2131296384 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:clPressure:2131296386 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:clRainFall:2131296387 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:clSunrise:2131296388 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:clUvIndex:2131296390 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:clUvWind:2131296391 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:clVisibility:2131296392 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:imTemperature:2131296518 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:imgACProcess:2131296520 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:imgAirCondition:2131296521 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:imgDashedLineSR:2131296525 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:imgHumidity:2131296526 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:imgPointPressure:2131296532 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:imgPointSunrise:2131296533 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:imgPointUVIndex:2131296534 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:imgPressure:2131296535 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:imgRainFall:2131296536 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:imgSunRise:2131296538 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:imgSunUV:2131296539 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:imgUvSlider:2131296542 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:imgVisibility:2131296543 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:imgWind:2131296547 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:layoutPointPressure:2131296583 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:layoutPointSunrise:2131296584 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:lineAirCondition:2131296595 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:lineTop:2131296600 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:progressPressure:2131296711 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:progressSunrise:2131296712 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:rvTimeWeather:2131296735 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvACDescription:2131296865 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvACEndValue:2131296866 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvACModerate:2131296867 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvACStartValue:2131296868 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvACValue:2131296869 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvAirCondition:2131296871 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvDominantPollutant:2131296885 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvDominantPollutantValue:2131296886 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvFLDescription:2131296887 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvFLTempValue:2131296888 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvFeelsLike:2131296889 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvHigh:2131296896 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvHumidity:2131296898 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvHumidityDescription:2131296899 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvHumidityPercent:2131296900 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvLow:2131296909 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvNext10days:2131296917 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvPressure:2131296924 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvPressureValue:2131296925 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvRFTime:2131296926 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvRainFall:2131296927 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvRainFallValue:2131296928 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvSunRise:2131296930 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvSunRiseTime:2131296931 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvSunSetTime:2131296932 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvTimeRainFall:2131296936 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvToday:2131296939 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvTomorrow:2131296940 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tv_US_EPA_AQI:2131296957 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tv_US_EPA_AQI_value:2131296958 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvUVDescription:2131296941 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvUnitPressure:2131296942 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvUnitRainFall:2131296943 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvUnitVisibility:2131296944 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvUnitWS:2131296945 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvUvIndex:2131296946 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvUvIndexValue:2131296947 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvVisibility:2131296949 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvVisibilityValue:2131296950 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvWind:2131296954 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvWindValue:2131296956 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:viewCenter:2131296970 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:viewCenterPressure:2131296971 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:viewOver:2131296973 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:ic_radio_selected:2131165440 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:ic_radio_non_select:2131165439 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:ic_english:2131165412 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:ic_portuguese:2131165437 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:ic_hindi:2131165416 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:ic_spanish:2131165450 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:ic_french:2131165413 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking layout:layout_item_language:2131492927 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:img_language:2131296553 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tv_language:2131296960 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:img_active:2131296548 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:view_item_language:2131296975 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:btn_rate:2131296362 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:img_rate:2131296558 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:rate_star_1:2131296716 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:rate_star_2:2131296717 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:rate_star_3:2131296718 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:rate_star_4:2131296719 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:rate_star_5:2131296720 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:rate_stars_holder:2131296721 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvDescription:2131296881 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tv_notnow:2131296961 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking layout:dialog_rate:2131492918 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:bg_item_config_selected:2131165344 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:bg_item_config_non_select:2131165343 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:clDisplay:2131296381 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:clPrecipitation:2131296385 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:clTemperature:2131296389 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:clWindSpeed:2131296393 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:dashedLinePrecipitation:2131296423 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:dashedLinePressure:2131296424 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:dashedLineTemperature:2131296425 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:dashedLineWindSpeed:2131296426 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:layout_content:2131296587 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvDegreeC:2131296877 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvDegreeF:2131296879 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvDisplay:2131296884 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvFt:2131296890 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvFtS:2131296891 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvHPa:2131296894 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvInHg:2131296901 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvInch:2131296902 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvKm:2131296903 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvKmH:2131296904 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvKn:2131296905 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvLM2:2131296906 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvM:2131296911 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvMMHg:2131296912 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvMS:2131296913 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvMm:2131296914 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvMph:2131296915 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvPrecipitation:2131296923 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvWindSpeed:2131296955 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking layout:activity_config:2131492892 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:ic_dot_home_selected:2131165408 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:ic_pointer_current:2131165434 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:ic_dot_home:2131165407 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:ic_pointer_current_selected:2131165435 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking string:config:2131755072 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:ic_config:2131165406 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking layout:layout_drawer_setting_item:2131492924 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking string:share:2131755246 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:ic_share:2131165446 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking string:policy:2131755228 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:ic_policy:2131165436 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking string:languages:2131755113 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:ic_language:2131165419 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking string:rate_this_app:2131755237 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:ic_rate:2131165442 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking layout:layout_drawer_general_item:2131492923 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking string:gps_is_required_to_use_this_app:2131755097 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking string:app_name:2131755040 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:cvDeviceLocation:2131296418 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:cvNotification:2131296419 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:imgSwitchDeviceLocation:2131296540 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:imgSwitchNotification:2131296541 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:ivPermission:2131296568 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvContent:2131296874 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvDeviceLocation:2131296883 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvGo:2131296893 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvNotification:2131296919 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvPermission:2131296920 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking layout:activity_permission:2131492896 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking string:next:2131755215 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:ic_dot_selected:2131165410 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:ic_dot_not_select:2131165409 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking string:get_started:2131755091 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:img_intro_1:2131165464 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:img_intro_2:2131165465 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:img_intro_3:2131165466 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking string:intro_title_1:2131755108 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking string:intro_title_2:2131755109 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking string:intro_title_3:2131755110 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking string:intro_content_1:2131755105 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking string:intro_content_2:2131755106 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking string:intro_content_3:2131755107 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:cv_ok:2131296421 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:img_rate_success:2131296559 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tv_thank_you:2131296962 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tv_thank_you_title:2131296963 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking layout:dialog_rate_success:2131492919 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:imgItemDrawer:2131296528 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvTitle:2131296937 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvTime:2131296935 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking string:different_from_temperature:2131755076 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking string:similar_to_temperature:2131755249 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking string:low:2131755114 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking string:moderate:2131755152 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking string:high:2131755100 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking string:very_high:2131755266 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking string:extreme:2131755083 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:ic_back:2131296511 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:icLogo:2131296510 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:linePolicy:2131296598 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvNameApp:2131296916 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvPolicy:2131296921 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvVersion:2131296948 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking layout:activity_policy:2131492897 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking layout:layout_image_slide:2131492925 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvDegreeStart:2131296880 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvDegreeEnd:2131296878 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvWeekDay:2131296953 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvDate:2131296875 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:lineBottom:2131296596 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:barTemperature:2131296346 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:barTemperatureBg:2131296347 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking layout:layout_item_weather_time:2131492929 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking string:today:2131755262 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking layout:layout_precipitation:2131492930 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking color:color_FFAF01:2131034163 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking color:color_4DFFAF01:2131034160 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking string:device_location:2131755075 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking string:permission_description:2131755226 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking string:notifications:2131755218 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking string:and:2131755038 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:ic_switch_selected:2131165458 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:ic_switch_non_select:2131165457 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking string:please_select_your_rating:2131755227 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:ic_star_on:2131165452 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:ic_star_off:2131165451 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:rate_star_5:2131165549 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:rate_star_4:2131165548 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:rate_star_3:2131165547 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:rate_star_2:2131165546 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking drawable:rate_star_1:2131165545 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:img_layer_1:2131296554 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvContainAds:2131296873 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking layout:activity_splash:2131492900 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:bgWeather:2131296353 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:layoutActionCollapse:2131296573 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvAdd:2131296870 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking layout:activity_search_weather_result:2131492899 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:imgNotFindLocation:2131296530 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:layoutNotFindLocation:2131296580 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:rlSearch:2131296730 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:rvSearch:2131296733 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:searchView:2131296748 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tvNotFindLocation:2131296918 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:viewHideKB:2131296972 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking layout:activity_search:2131492898 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking layout:layout_item_search_weather:2131492928 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:img_choose_language:2131296549 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:rv_language:2131296736 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking id:tv_header:2131296959 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
-Marking layout:activity_language:2131492894 reachable: referenced from D:\TRUONGTHINH\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking string:gps_is_turn_on:2131755098 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:imgApp:2131296522 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:imgClose:2131296524 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:lineSetting:2131296599 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:lvGeneral:2131296610 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:lvSetting:2131296611 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvAppName:2131296872 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvGeneral:2131296892 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvSetting:2131296929 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:cloudy:2131165362 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:ic_cloudy:2131165405 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:partly_cloudy:2131165542 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:ic_partly_cloudy:2131165433 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:drizzle:2131165389 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:ic_drizzle:2131165411 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:ic_raining:2131165441 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:rain:2131165544 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:clear_night:2131165361 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:ic_moon:2131165426 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:ic_sunshine:2131165456 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:fog:2131165390 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:ic_frog:2131165414 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:heavy_rain:2131165395 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:snow:2131165551 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:ic_heavy_snow:2131165415 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:light_snow:2131165470 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:ic_snowy:2131165449 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:thunder:2131165553 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:ic_thunder:2131165460 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:ic_storm:2131165453 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:ic_overcast:2131165432 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:clDrawer:2131296382 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:drawer:2131296455 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:imgLoading:2131296529 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:imgOpenDrawer:2131296531 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:img_point_1:2131296555 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:img_point_2:2131296556 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:img_point_3:2131296557 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:imgSearch:2131296537 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:layoutLoading:2131296578 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:llPointHistory:2131296604 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:vpWeather:2131296984 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking layout:activity_main:2131492895 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking color:color_ABACAE:2131034162 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking color:white:2131034877 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking string:sunset:2131755254 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking string:the_dew_point_is:2131755259 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking string:right_now:2131755239 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking string:version:2131755265 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:appBar:2131296338 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:collapsingToolbar:2131296401 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:cvOpen:2131296420 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:imgIconWeather:2131296527 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:imgWeatherBg:2131296545 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:imgWeatherCollapse:2131296546 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:layoutCollapse:2131296574 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:layoutExtend:2131296576 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:layoutInfo:2131296577 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:layoutLocationCollapse:2131296579 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:layoutOpen:2131296581 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:layoutWeatherExtend:2131296586 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:lineLocation:2131296597 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:llRangeTemperature:2131296605 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:llWeather:2131296606 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:llWeatherCollapse:2131296607 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:toolbar:2131296852 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvDegree:2131296876 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvHighest:2131296897 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvLocationCollapse:2131296908 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvLowest:2131296910 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvPosition:2131296922 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvTemperature:2131296933 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvTemperatureCollapse:2131296934 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvWeather:2131296951 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvWeatherCollapse:2131296952 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:viewTransparent:2131296974 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking layout:fragment_home:2131492922 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:btn_next:2131296361 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:img_circle_1:2131296550 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:img_circle_2:2131296551 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:img_circle_3:2131296552 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:layoutDescriptionIntro:2131296575 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:ll_circle:2131296608 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:ll_intro:2131296609 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvDescriptionIntro:2131296882 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvTitleIntro:2131296938 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:vp_slide_intro:2131296985 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking layout:activity_intro:2131492893 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:imgBack:2131296523 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:rvTenPrecipitation:2131296734 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvHeader:2131296895 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking layout:activity_ten_days:2131492901 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:imgWeather:2131296544 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvLocation:2131296907 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:clAirCondition:2131296380 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:clFeelsLike:2131296383 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:clHumidity:2131296384 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:clPressure:2131296386 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:clRainFall:2131296387 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:clSunrise:2131296388 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:clUvIndex:2131296390 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:clUvWind:2131296391 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:clVisibility:2131296392 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:imTemperature:2131296518 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:imgACProcess:2131296520 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:imgAirCondition:2131296521 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:imgDashedLineSR:2131296525 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:imgHumidity:2131296526 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:imgPointPressure:2131296532 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:imgPointSunrise:2131296533 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:imgPointUVIndex:2131296534 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:imgPressure:2131296535 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:imgRainFall:2131296536 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:imgSunRise:2131296538 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:imgSunUV:2131296539 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:imgUvSlider:2131296542 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:imgVisibility:2131296543 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:imgWind:2131296547 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:layoutPointPressure:2131296583 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:layoutPointSunrise:2131296584 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:lineAirCondition:2131296595 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:lineTop:2131296600 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:progressPressure:2131296711 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:progressSunrise:2131296712 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:rvTimeWeather:2131296735 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvACDescription:2131296865 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvACEndValue:2131296866 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvACModerate:2131296867 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvACStartValue:2131296868 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvACValue:2131296869 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvAirCondition:2131296871 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvDominantPollutant:2131296885 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvDominantPollutantValue:2131296886 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvFLDescription:2131296887 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvFLTempValue:2131296888 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvFeelsLike:2131296889 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvHigh:2131296896 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvHumidity:2131296898 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvHumidityDescription:2131296899 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvHumidityPercent:2131296900 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvLow:2131296909 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvNext10days:2131296917 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvPressure:2131296924 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvPressureValue:2131296925 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvRFTime:2131296926 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvRainFall:2131296927 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvRainFallValue:2131296928 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvSunRise:2131296930 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvSunRiseTime:2131296931 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvSunSetTime:2131296932 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvTimeRainFall:2131296936 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvToday:2131296939 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvTomorrow:2131296940 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tv_US_EPA_AQI:2131296957 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tv_US_EPA_AQI_value:2131296958 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvUVDescription:2131296941 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvUnitPressure:2131296942 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvUnitRainFall:2131296943 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvUnitVisibility:2131296944 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvUnitWS:2131296945 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvUvIndex:2131296946 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvUvIndexValue:2131296947 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvVisibility:2131296949 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvVisibilityValue:2131296950 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvWind:2131296954 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvWindValue:2131296956 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:viewCenter:2131296970 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:viewCenterPressure:2131296971 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:viewOver:2131296973 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:ic_radio_selected:2131165440 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:ic_radio_non_select:2131165439 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:ic_english:2131165412 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:ic_portuguese:2131165437 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:ic_hindi:2131165416 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:ic_spanish:2131165450 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:ic_french:2131165413 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking layout:layout_item_language:2131492927 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:img_language:2131296553 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tv_language:2131296960 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:img_active:2131296548 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:view_item_language:2131296975 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:btn_rate:2131296362 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:img_rate:2131296558 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:rate_star_1:2131296716 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:rate_star_2:2131296717 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:rate_star_3:2131296718 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:rate_star_4:2131296719 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:rate_star_5:2131296720 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:rate_stars_holder:2131296721 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvDescription:2131296881 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tv_notnow:2131296961 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking layout:dialog_rate:2131492918 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:bg_item_config_selected:2131165344 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:bg_item_config_non_select:2131165343 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:clDisplay:2131296381 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:clPrecipitation:2131296385 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:clTemperature:2131296389 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:clWindSpeed:2131296393 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:dashedLinePrecipitation:2131296423 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:dashedLinePressure:2131296424 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:dashedLineTemperature:2131296425 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:dashedLineWindSpeed:2131296426 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:layout_content:2131296587 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvDegreeC:2131296877 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvDegreeF:2131296879 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvDisplay:2131296884 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvFt:2131296890 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvFtS:2131296891 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvHPa:2131296894 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvInHg:2131296901 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvInch:2131296902 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvKm:2131296903 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvKmH:2131296904 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvKn:2131296905 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvLM2:2131296906 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvM:2131296911 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvMMHg:2131296912 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvMS:2131296913 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvMm:2131296914 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvMph:2131296915 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvPrecipitation:2131296923 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvWindSpeed:2131296955 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking layout:activity_config:2131492892 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:ic_dot_home_selected:2131165408 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:ic_pointer_current:2131165434 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:ic_dot_home:2131165407 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:ic_pointer_current_selected:2131165435 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking string:config:2131755072 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:ic_config:2131165406 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking layout:layout_drawer_setting_item:2131492924 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking string:share:2131755246 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:ic_share:2131165446 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking string:policy:2131755228 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:ic_policy:2131165436 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking string:languages:2131755113 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:ic_language:2131165419 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking string:rate_this_app:2131755237 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:ic_rate:2131165442 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking layout:layout_drawer_general_item:2131492923 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking string:gps_is_required_to_use_this_app:2131755097 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking string:app_name:2131755040 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:cvDeviceLocation:2131296418 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:cvNotification:2131296419 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:imgSwitchDeviceLocation:2131296540 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:imgSwitchNotification:2131296541 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:ivPermission:2131296568 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvContent:2131296874 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvDeviceLocation:2131296883 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvGo:2131296893 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvNotification:2131296919 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvPermission:2131296920 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking layout:activity_permission:2131492896 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking string:next:2131755215 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:ic_dot_selected:2131165410 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:ic_dot_not_select:2131165409 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking string:get_started:2131755091 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:img_intro_1:2131165464 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:img_intro_2:2131165465 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:img_intro_3:2131165466 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking string:intro_title_1:2131755108 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking string:intro_title_2:2131755109 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking string:intro_title_3:2131755110 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking string:intro_content_1:2131755105 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking string:intro_content_2:2131755106 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking string:intro_content_3:2131755107 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:cv_ok:2131296421 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:img_rate_success:2131296559 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tv_thank_you:2131296962 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tv_thank_you_title:2131296963 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking layout:dialog_rate_success:2131492919 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:imgItemDrawer:2131296528 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvTitle:2131296937 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvTime:2131296935 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking string:different_from_temperature:2131755076 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking string:similar_to_temperature:2131755249 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking string:low:2131755114 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking string:moderate:2131755152 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking string:high:2131755100 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking string:very_high:2131755266 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking string:extreme:2131755083 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:ic_back:2131296511 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:icLogo:2131296510 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:linePolicy:2131296598 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvNameApp:2131296916 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvPolicy:2131296921 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvVersion:2131296948 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking layout:activity_policy:2131492897 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking layout:layout_image_slide:2131492925 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvDegreeStart:2131296880 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvDegreeEnd:2131296878 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvWeekDay:2131296953 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvDate:2131296875 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:lineBottom:2131296596 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:barTemperature:2131296346 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:barTemperatureBg:2131296347 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking layout:layout_item_weather_time:2131492929 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking string:today:2131755262 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking layout:layout_precipitation:2131492930 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking color:color_FFAF01:2131034163 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking color:color_4DFFAF01:2131034160 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking string:device_location:2131755075 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking string:permission_description:2131755226 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking string:notifications:2131755218 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking string:and:2131755038 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:ic_switch_selected:2131165458 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:ic_switch_non_select:2131165457 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking string:please_select_your_rating:2131755227 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:ic_star_on:2131165452 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:ic_star_off:2131165451 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:rate_star_5:2131165549 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:rate_star_4:2131165548 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:rate_star_3:2131165547 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:rate_star_2:2131165546 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking drawable:rate_star_1:2131165545 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:img_layer_1:2131296554 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvContainAds:2131296873 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking layout:activity_splash:2131492900 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:bgWeather:2131296353 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:layoutActionCollapse:2131296573 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvAdd:2131296870 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking layout:activity_search_weather_result:2131492899 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:imgNotFindLocation:2131296530 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:layoutNotFindLocation:2131296580 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:rlSearch:2131296730 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:rvSearch:2131296733 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:searchView:2131296748 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tvNotFindLocation:2131296918 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:viewHideKB:2131296972 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking layout:activity_search:2131492898 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking layout:layout_item_search_weather:2131492928 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:img_choose_language:2131296549 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:rv_language:2131296736 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking id:tv_header:2131296959 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
+Marking layout:activity_language:2131492894 reachable: referenced from D:\New folder\NTD\weatherapp\app\build\intermediates\dex\developDebug\minifyDevelopDebugWithR8\classes.dex
 android.content.res.Resources#getIdentifier present: true
 Web content present: false
 Referenced Strings:
@@ -613,7 +613,6 @@ okhttp/4.8.1
 android.intent.action.TIME_SET
 TP1A
 cipherSuite
-com.google.android.gms.location.inter...
 checkedIconEnabled
 DecodePath
 Copyright
@@ -1446,6 +1445,7 @@ Observable
 android:name
 UPPER_CAMEL_CASE_WITH_SPACES
 SupportRMFragment
+HoChiMinh
 :method
 STRING
 progress
@@ -2076,7 +2076,6 @@ SERVICE_UPDATING
 newValue
 margin
 cache
-TaskOnStopCallback
 androidx.appcompat.app.ActionBar$Tab
 dataLang
 tvACModerate
@@ -2568,7 +2567,6 @@ setMarginTempProcess
 SignIn.INTERNAL_API
 500
 failed_resolution
-locationDebug
 com.android.org.conscrypt
 realm
 ACTION_MOVE_WINDOW

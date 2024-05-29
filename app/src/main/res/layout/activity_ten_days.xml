@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@color/bg_app"
     android:paddingTop="@dimen/_42sdp"
-    tools:context=".view.ten_days_forecast.TenDaysActivity">
+    tools:context=".view.ten_days_forecast.ThreeDaysActivity">
 
     <ImageView
         android:id="@+id/imgBack"

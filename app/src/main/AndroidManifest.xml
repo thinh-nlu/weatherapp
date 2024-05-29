@@ -29,7 +29,7 @@
             android:exported="false"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".view.ten_days_forecast.TenDaysActivity"
+            android:name=".view.ten_days_forecast.ThreeDaysActivity"
             android:exported="false"
             android:screenOrientation="portrait" />
         <activity

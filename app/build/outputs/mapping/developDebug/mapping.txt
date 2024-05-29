@@ -3,8 +3,8 @@
 # min_api: 24
 # common_typos_disable
 # {"id":"com.android.tools.r8.mapping","version":"2.1"}
-# pg_map_id: 99adb81
-# pg_map_hash: SHA-256 99adb81be83437b55b598e91e3b4d7fed69158485e397327868a9f16a852d288
+# pg_map_id: 3d45fc0
+# pg_map_hash: SHA-256 3d45fc00d6cefdddf875fd234b154265230dde3f9b4929e02e2272a058fb6b9e
 android.support.v4.app.RemoteActionCompatParcelizer -> android.support.v4.app.RemoteActionCompatParcelizer:
     11:11:void <init>() -> <init>
     13:13:androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel) -> read
@@ -17111,13 +17111,11 @@ com.expressweather.accurate.live.weather.forecast.utils.SharePrefUtils -> com.ex
 com.expressweather.accurate.live.weather.forecast.view.MainActivity -> com.expressweather.accurate.live.weather.forecast.view.MainActivity:
     0:0:void $r8$lambda$2zX9IMRTT6lplLs7cDf9_S85Zjo(com.expressweather.accurate.live.weather.forecast.view.MainActivity,android.view.View) -> $r8$lambda$2zX9IMRTT6lplLs7cDf9_S85Zjo
       # {"id":"com.android.tools.r8.synthesized"}
+    0:0:void $r8$lambda$N_vnTJKDx-XtHdHDwLSO-wei-jw(com.expressweather.accurate.live.weather.forecast.view.MainActivity,android.view.View) -> $r8$lambda$N_vnTJKDx-XtHdHDwLSO-wei-jw
+      # {"id":"com.android.tools.r8.synthesized"}
     0:0:void $r8$lambda$VE0F79WV_Lg0I7W2W5BMuCQaBcU(com.expressweather.accurate.live.weather.forecast.view.MainActivity,int) -> $r8$lambda$VE0F79WV_Lg0I7W2W5BMuCQaBcU
       # {"id":"com.android.tools.r8.synthesized"}
     0:0:void $r8$lambda$VqYz8Q-CikbRBRghSp7c5puo-C4(com.expressweather.accurate.live.weather.forecast.view.MainActivity,android.view.View) -> $r8$lambda$VqYz8Q-CikbRBRghSp7c5puo-C4
-      # {"id":"com.android.tools.r8.synthesized"}
-    0:0:void $r8$lambda$WoZkc58UHGMmTPOemH36m_hv-N0(com.expressweather.accurate.live.weather.forecast.view.MainActivity,android.location.Location) -> $r8$lambda$WoZkc58UHGMmTPOemH36m_hv-N0
-      # {"id":"com.android.tools.r8.synthesized"}
-    0:0:void $r8$lambda$naK1ro0srji5VqSbzoEzp_kOkc0(com.expressweather.accurate.live.weather.forecast.view.MainActivity,android.view.View) -> $r8$lambda$naK1ro0srji5VqSbzoEzp_kOkc0
       # {"id":"com.android.tools.r8.synthesized"}
     52:65:void <init>() -> <init>
     52:52:com.expressweather.accurate.live.weather.forecast.dialog.RateDialog access$000(com.expressweather.accurate.live.weather.forecast.view.MainActivity) -> access$000
@@ -17147,29 +17145,28 @@ com.expressweather.accurate.live.weather.forecast.view.MainActivity -> com.expre
     52:52:com.expressweather.accurate.live.weather.forecast.model.network_model.RootModel access$802(com.expressweather.accurate.live.weather.forecast.view.MainActivity,com.expressweather.accurate.live.weather.forecast.model.network_model.RootModel) -> access$802
     52:52:com.expressweather.accurate.live.weather.forecast.model.network_model.RootModel access$900(com.expressweather.accurate.live.weather.forecast.view.MainActivity) -> access$900
     52:52:com.expressweather.accurate.live.weather.forecast.model.network_model.RootModel access$902(com.expressweather.accurate.live.weather.forecast.view.MainActivity,com.expressweather.accurate.live.weather.forecast.model.network_model.RootModel) -> access$902
-    349:366:void changePointHistory() -> changePointHistory
-    272:325:void getDataFromApi(java.lang.String) -> getDataFromApi
-    334:346:void handleWeatherViewPager() -> handleWeatherViewPager
-    328:331:void hideShowTopButton(boolean) -> hideShowTopButton
-    95:140:void initData() -> initData
-    143:164:void initDrawer() -> initDrawer
+    331:348:void changePointHistory() -> changePointHistory
+    254:307:void getDataFromApi(java.lang.String) -> getDataFromApi
+    316:328:void handleWeatherViewPager() -> handleWeatherViewPager
+    310:313:void hideShowTopButton(boolean) -> hideShowTopButton
+    95:122:void initData() -> initData
+    125:146:void initDrawer() -> initDrawer
     75:83:void initView() -> initView
-    100:115:void lambda$initData$0(android.location.Location) -> lambda$initData$0
-    168:168:void lambda$viewListener$1(android.view.View) -> lambda$viewListener$1
-    170:170:void lambda$viewListener$2(android.view.View) -> lambda$viewListener$2
-    173:177:void lambda$viewListener$3(android.view.View) -> lambda$viewListener$3
-    370:381:void onActivityResult(int,int,android.content.Intent) -> onActivityResult
-    397:398:void onClick(int) -> onClick
-    385:393:void onDestroy() -> onDestroy
+    150:150:void lambda$viewListener$0(android.view.View) -> lambda$viewListener$0
+    152:152:void lambda$viewListener$1(android.view.View) -> lambda$viewListener$1
+    155:159:void lambda$viewListener$2(android.view.View) -> lambda$viewListener$2
+    352:363:void onActivityResult(int,int,android.content.Intent) -> onActivityResult
+    379:380:void onClick(int) -> onClick
+    367:375:void onDestroy() -> onDestroy
     87:91:void onResume() -> onResume
-    181:182:void openDrawer() -> openDrawer
-    223:261:void rateHandle() -> rateHandle
-    196:220:void selectItemGeneral(int) -> selectItemGeneral
-    185:192:void selectItemSetting(int) -> selectItemSetting
+    163:164:void openDrawer() -> openDrawer
+    205:243:void rateHandle() -> rateHandle
+    178:202:void selectItemGeneral(int) -> selectItemGeneral
+    167:174:void selectItemSetting(int) -> selectItemSetting
     52:52:androidx.viewbinding.ViewBinding setViewBinding() -> setViewBinding
     70:70:com.expressweather.accurate.live.weather.forecast.databinding.ActivityMainBinding setViewBinding() -> setViewBinding
-    264:269:void share() -> share
-    168:178:void viewListener() -> viewListener
+    246:251:void share() -> share
+    150:160:void viewListener() -> viewListener
 com.expressweather.accurate.live.weather.forecast.view.MainActivity$$ExternalSyntheticLambda0 -> com.expressweather.accurate.live.weather.forecast.view.MainActivity$$ExternalSyntheticLambda0:
 # {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
 # {"id":"com.android.tools.r8.synthesized"}
@@ -17202,27 +17199,19 @@ com.expressweather.accurate.live.weather.forecast.view.MainActivity$$ExternalSyn
       # {"id":"com.android.tools.r8.synthesized"}
     0:0:void com.expressweather.accurate.live.weather.forecast.view.MainActivity$$InternalSyntheticLambda$1$a7de5d643e0c9b840f6780d2d6128f418447af131f14d91a6dbb6e951a041994$0.onClick(int) -> onClick
       # {"id":"com.android.tools.r8.synthesized"}
-com.expressweather.accurate.live.weather.forecast.view.MainActivity$$ExternalSyntheticLambda4 -> com.expressweather.accurate.live.weather.forecast.view.MainActivity$$ExternalSyntheticLambda4:
-# {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
-# {"id":"com.android.tools.r8.synthesized"}
-    com.expressweather.accurate.live.weather.forecast.view.MainActivity com.expressweather.accurate.live.weather.forecast.view.MainActivity$$InternalSyntheticLambda$1$bfb0ca3f4ac8e1a63b463e4ccc037858270e9779c103c83e10e05aa0f3373a2e$0.f$0 -> f$0
-    0:0:void com.expressweather.accurate.live.weather.forecast.view.MainActivity$$InternalSyntheticLambda$1$bfb0ca3f4ac8e1a63b463e4ccc037858270e9779c103c83e10e05aa0f3373a2e$0.<init>(com.expressweather.accurate.live.weather.forecast.view.MainActivity) -> <init>
-      # {"id":"com.android.tools.r8.synthesized"}
-    0:0:void com.expressweather.accurate.live.weather.forecast.view.MainActivity$$InternalSyntheticLambda$1$bfb0ca3f4ac8e1a63b463e4ccc037858270e9779c103c83e10e05aa0f3373a2e$0.onSuccess(java.lang.Object) -> onSuccess
-      # {"id":"com.android.tools.r8.synthesized"}
 com.expressweather.accurate.live.weather.forecast.view.MainActivity$1 -> com.expressweather.accurate.live.weather.forecast.view.MainActivity$1:
-    225:225:void <init>(com.expressweather.accurate.live.weather.forecast.view.MainActivity) -> <init>
-    257:258:void later() -> later
-    242:253:void rating() -> rating
-    228:238:void send() -> send
+    207:207:void <init>(com.expressweather.accurate.live.weather.forecast.view.MainActivity) -> <init>
+    239:240:void later() -> later
+    224:235:void rating() -> rating
+    210:220:void send() -> send
 com.expressweather.accurate.live.weather.forecast.view.MainActivity$2 -> com.expressweather.accurate.live.weather.forecast.view.MainActivity$2:
-    274:274:void <init>(com.expressweather.accurate.live.weather.forecast.view.MainActivity,java.lang.String) -> <init>
-    321:323:void onFailure(retrofit2.Call,java.lang.Throwable) -> onFailure
-    277:317:void onResponse(retrofit2.Call,retrofit2.Response) -> onResponse
+    256:256:void <init>(com.expressweather.accurate.live.weather.forecast.view.MainActivity,java.lang.String) -> <init>
+    303:305:void onFailure(retrofit2.Call,java.lang.Throwable) -> onFailure
+    259:299:void onResponse(retrofit2.Call,retrofit2.Response) -> onResponse
 com.expressweather.accurate.live.weather.forecast.view.MainActivity$3 -> com.expressweather.accurate.live.weather.forecast.view.MainActivity$3:
-    334:334:void <init>(com.expressweather.accurate.live.weather.forecast.view.MainActivity) -> <init>
-    342:344:void onPageScrollStateChanged(int) -> onPageScrollStateChanged
-    337:338:void onPageScrolled(int,float,int) -> onPageScrolled
+    316:316:void <init>(com.expressweather.accurate.live.weather.forecast.view.MainActivity) -> <init>
+    324:326:void onPageScrollStateChanged(int) -> onPageScrollStateChanged
+    319:320:void onPageScrolled(int,float,int) -> onPageScrolled
 com.expressweather.accurate.live.weather.forecast.view.PermissionActivity -> com.expressweather.accurate.live.weather.forecast.view.PermissionActivity:
     0:0:void $r8$lambda$8A-qfr0dLjM60qu3ZMoR7yLqK6s(com.expressweather.accurate.live.weather.forecast.view.PermissionActivity,android.view.View) -> $r8$lambda$8A-qfr0dLjM60qu3ZMoR7yLqK6s
       # {"id":"com.android.tools.r8.synthesized"}
@@ -17586,26 +17575,26 @@ com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment -> com.
 com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment$$ExternalSyntheticLambda0 -> com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment$$ExternalSyntheticLambda0:
 # {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
 # {"id":"com.android.tools.r8.synthesized"}
-    com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment$$InternalSyntheticLambda$2$129b6aace6e19ef8dcacce62b8ab2d57d9ee8f06fd3c2e4f848c1109a8ea00ea$0.f$0 -> f$0
-    0:0:void com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment$$InternalSyntheticLambda$2$129b6aace6e19ef8dcacce62b8ab2d57d9ee8f06fd3c2e4f848c1109a8ea00ea$0.<init>(com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment) -> <init>
+    com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment$$InternalSyntheticLambda$1$129b6aace6e19ef8dcacce62b8ab2d57d9ee8f06fd3c2e4f848c1109a8ea00ea$0.f$0 -> f$0
+    0:0:void com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment$$InternalSyntheticLambda$1$129b6aace6e19ef8dcacce62b8ab2d57d9ee8f06fd3c2e4f848c1109a8ea00ea$0.<init>(com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment) -> <init>
       # {"id":"com.android.tools.r8.synthesized"}
-    0:0:void com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment$$InternalSyntheticLambda$2$129b6aace6e19ef8dcacce62b8ab2d57d9ee8f06fd3c2e4f848c1109a8ea00ea$0.onClick(android.view.View) -> onClick
+    0:0:void com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment$$InternalSyntheticLambda$1$129b6aace6e19ef8dcacce62b8ab2d57d9ee8f06fd3c2e4f848c1109a8ea00ea$0.onClick(android.view.View) -> onClick
       # {"id":"com.android.tools.r8.synthesized"}
 com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment$$ExternalSyntheticLambda1 -> com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment$$ExternalSyntheticLambda1:
 # {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
 # {"id":"com.android.tools.r8.synthesized"}
-    com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment$$InternalSyntheticLambda$2$129b6aace6e19ef8dcacce62b8ab2d57d9ee8f06fd3c2e4f848c1109a8ea00ea$1.f$0 -> f$0
-    0:0:void com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment$$InternalSyntheticLambda$2$129b6aace6e19ef8dcacce62b8ab2d57d9ee8f06fd3c2e4f848c1109a8ea00ea$1.<init>(com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment) -> <init>
+    com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment$$InternalSyntheticLambda$1$129b6aace6e19ef8dcacce62b8ab2d57d9ee8f06fd3c2e4f848c1109a8ea00ea$1.f$0 -> f$0
+    0:0:void com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment$$InternalSyntheticLambda$1$129b6aace6e19ef8dcacce62b8ab2d57d9ee8f06fd3c2e4f848c1109a8ea00ea$1.<init>(com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment) -> <init>
       # {"id":"com.android.tools.r8.synthesized"}
-    0:0:void com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment$$InternalSyntheticLambda$2$129b6aace6e19ef8dcacce62b8ab2d57d9ee8f06fd3c2e4f848c1109a8ea00ea$1.onClick(android.view.View) -> onClick
+    0:0:void com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment$$InternalSyntheticLambda$1$129b6aace6e19ef8dcacce62b8ab2d57d9ee8f06fd3c2e4f848c1109a8ea00ea$1.onClick(android.view.View) -> onClick
       # {"id":"com.android.tools.r8.synthesized"}
 com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment$$ExternalSyntheticLambda2 -> com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment$$ExternalSyntheticLambda2:
 # {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
 # {"id":"com.android.tools.r8.synthesized"}
-    com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment$$InternalSyntheticLambda$2$129b6aace6e19ef8dcacce62b8ab2d57d9ee8f06fd3c2e4f848c1109a8ea00ea$2.f$0 -> f$0
-    0:0:void com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment$$InternalSyntheticLambda$2$129b6aace6e19ef8dcacce62b8ab2d57d9ee8f06fd3c2e4f848c1109a8ea00ea$2.<init>(com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment) -> <init>
+    com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment$$InternalSyntheticLambda$1$129b6aace6e19ef8dcacce62b8ab2d57d9ee8f06fd3c2e4f848c1109a8ea00ea$2.f$0 -> f$0
+    0:0:void com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment$$InternalSyntheticLambda$1$129b6aace6e19ef8dcacce62b8ab2d57d9ee8f06fd3c2e4f848c1109a8ea00ea$2.<init>(com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment) -> <init>
       # {"id":"com.android.tools.r8.synthesized"}
-    0:0:void com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment$$InternalSyntheticLambda$2$129b6aace6e19ef8dcacce62b8ab2d57d9ee8f06fd3c2e4f848c1109a8ea00ea$2.onClick(android.view.View) -> onClick
+    0:0:void com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment$$InternalSyntheticLambda$1$129b6aace6e19ef8dcacce62b8ab2d57d9ee8f06fd3c2e4f848c1109a8ea00ea$2.onClick(android.view.View) -> onClick
       # {"id":"com.android.tools.r8.synthesized"}
 com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment$1 -> com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment$1:
     110:111:void <init>(com.expressweather.accurate.live.weather.forecast.view.home.HomeFragment) -> <init>
@@ -18176,7 +18165,6 @@ com.google.android.gms.common.api.CommonStatusCodes -> com.google.android.gms.co
     1:1:java.lang.String getStatusCodeString(int) -> getStatusCodeString
 com.google.android.gms.common.api.GoogleApi -> com.google.android.gms.common.api.GoogleApi:
 # {"id":"sourceFile","fileName":"com.google.android.gms:play-services-base@@18.1.0"}
-    1:1:void <init>(android.app.Activity,com.google.android.gms.common.api.Api,com.google.android.gms.common.api.Api$ApiOptions,com.google.android.gms.common.api.GoogleApi$Settings) -> <init>
     4:20:void <init>(android.content.Context,android.app.Activity,com.google.android.gms.common.api.Api,com.google.android.gms.common.api.Api$ApiOptions,com.google.android.gms.common.api.GoogleApi$Settings) -> <init>
     22:22:void <init>(android.content.Context,com.google.android.gms.common.api.Api,com.google.android.gms.common.api.Api$ApiOptions,com.google.android.gms.common.api.GoogleApi$Settings) -> <init>
     1:16:com.google.android.gms.common.internal.ClientSettings$Builder createClientSettingsBuilder() -> createClientSettingsBuilder
@@ -19475,7 +19463,6 @@ com.google.android.gms.internal.location.zza -> com.google.android.gms.internal.
     0:0:void <init>(android.os.IBinder,java.lang.String) -> <init>
     0:0:android.os.IBinder asBinder() -> asBinder
     1:2:android.os.Parcel zza() -> zza
-    1:7:android.os.Parcel zzb(int,android.os.Parcel) -> zzb
     1:6:void zzc(int,android.os.Parcel) -> zzc
 com.google.android.gms.internal.location.zzau -> com.google.android.gms.internal.location.zzau:
 # {"id":"sourceFile","fileName":"com.google.android.gms:play-services-location@@21.0.1"}
@@ -19484,10 +19471,6 @@ com.google.android.gms.internal.location.zzb -> com.google.android.gms.internal.
     1:2:void <init>(java.lang.String) -> <init>
     0:0:android.os.IBinder asBinder() -> asBinder
     1:3:boolean onTransact(int,android.os.Parcel,android.os.Parcel,int) -> onTransact
-com.google.android.gms.internal.location.zzbe -> com.google.android.gms.internal.location.zzbe:
-# {"id":"sourceFile","fileName":"com.google.android.gms:play-services-location@@21.0.1"}
-    0:0:void <clinit>() -> <clinit>
-    1:2:void accept(java.lang.Object,java.lang.Object) -> accept
 com.google.android.gms.internal.location.zzbm -> com.google.android.gms.internal.location.zzbm:
 # {"id":"sourceFile","fileName":"com.google.android.gms:play-services-location@@21.0.1"}
     1:1:void <init>() -> <init>
@@ -19495,8 +19478,6 @@ com.google.android.gms.internal.location.zzbm -> com.google.android.gms.internal
 com.google.android.gms.internal.location.zzbp -> com.google.android.gms.internal.location.zzbp:
 # {"id":"sourceFile","fileName":"com.google.android.gms:play-services-location@@21.0.1"}
     1:2:void <clinit>() -> <clinit>
-    1:1:void <init>(android.app.Activity) -> <init>
-    1:5:com.google.android.gms.tasks.Task getLastLocation() -> getLastLocation
 com.google.android.gms.internal.location.zzbv -> com.google.android.gms.internal.location.zzbv:
 # {"id":"sourceFile","fileName":"com.google.android.gms:play-services-location@@21.0.1"}
 com.google.android.gms.internal.location.zzc -> com.google.android.gms.internal.location.zzc:
@@ -19516,10 +19497,6 @@ com.google.android.gms.internal.location.zzce -> com.google.android.gms.internal
 # {"id":"sourceFile","fileName":"com.google.android.gms:play-services-location@@21.0.1"}
     2:2:void <init>(android.content.Context) -> <init>
     1:5:com.google.android.gms.tasks.Task checkLocationSettings(com.google.android.gms.location.LocationSettingsRequest) -> checkLocationSettings
-com.google.android.gms.internal.location.zzcm -> com.google.android.gms.internal.location.zzcm:
-# {"id":"sourceFile","fileName":"com.google.android.gms:play-services-location@@21.0.1"}
-    1:1:void <init>(com.google.android.gms.internal.location.zzda,com.google.android.gms.tasks.TaskCompletionSource) -> <init>
-    1:1:void zzb(com.google.android.gms.common.api.Status,android.location.Location) -> zzb
 com.google.android.gms.internal.location.zzcq -> com.google.android.gms.internal.location.zzcq:
 # {"id":"sourceFile","fileName":"com.google.android.gms:play-services-location@@21.0.1"}
     1:1:void <init>(com.google.android.gms.tasks.TaskCompletionSource) -> <init>
@@ -19542,8 +19519,6 @@ com.google.android.gms.internal.location.zzda -> com.google.android.gms.internal
     0:0:java.lang.String getStartServiceAction() -> getStartServiceAction
     1:10:void onConnectionSuspended(int) -> onConnectionSuspended
     0:0:boolean usesClientTelemetry() -> usesClientTelemetry
-    1:4:boolean zzE(com.google.android.gms.common.Feature) -> zzE
-    1:6:void zzt(com.google.android.gms.location.LastLocationRequest,com.google.android.gms.tasks.TaskCompletionSource) -> zzt
 com.google.android.gms.internal.location.zzdj -> com.google.android.gms.internal.location.zzdj:
 # {"id":"sourceFile","fileName":"com.google.android.gms:play-services-location@@21.0.1"}
     1:3:void <clinit>() -> <clinit>
@@ -19655,16 +19630,8 @@ com.google.android.gms.internal.location.zze -> com.google.android.gms.internal.
 com.google.android.gms.internal.location.zzn -> com.google.android.gms.internal.location.zzn:
 # {"id":"sourceFile","fileName":"com.google.android.gms:play-services-location@@21.0.1"}
     1:1:void <init>(android.os.IBinder) -> <init>
-    1:4:android.location.Location zzd() -> zzd
     1:5:void zzh(com.google.android.gms.location.LocationSettingsRequest,com.google.android.gms.internal.location.zzs,java.lang.String) -> zzh
-    1:4:void zzj(com.google.android.gms.location.LastLocationRequest,com.google.android.gms.internal.location.zzq) -> zzj
 com.google.android.gms.internal.location.zzo -> com.google.android.gms.internal.location.zzo:
-# {"id":"sourceFile","fileName":"com.google.android.gms:play-services-location@@21.0.1"}
-com.google.android.gms.internal.location.zzp -> com.google.android.gms.internal.location.zzp:
-# {"id":"sourceFile","fileName":"com.google.android.gms:play-services-location@@21.0.1"}
-    1:1:void <init>() -> <init>
-    1:4:boolean zza(int,android.os.Parcel,android.os.Parcel,int) -> zza
-com.google.android.gms.internal.location.zzq -> com.google.android.gms.internal.location.zzq:
 # {"id":"sourceFile","fileName":"com.google.android.gms:play-services-location@@21.0.1"}
 com.google.android.gms.internal.location.zzr -> com.google.android.gms.internal.location.zzr:
 # {"id":"sourceFile","fileName":"com.google.android.gms:play-services-location@@21.0.1"}
@@ -19677,24 +19644,8 @@ com.google.android.gms.internal.tasks.zza -> com.google.android.gms.internal.tas
     2:2:void <init>(android.os.Looper) -> <init>
 com.google.android.gms.location.FusedLocationProviderApi -> com.google.android.gms.location.FusedLocationProviderApi:
 # {"id":"sourceFile","fileName":"com.google.android.gms:play-services-location@@21.0.1"}
-com.google.android.gms.location.FusedLocationProviderClient -> com.google.android.gms.location.FusedLocationProviderClient:
-# {"id":"sourceFile","fileName":"com.google.android.gms:play-services-location@@21.0.1"}
 com.google.android.gms.location.GeofencingApi -> com.google.android.gms.location.GeofencingApi:
 # {"id":"sourceFile","fileName":"com.google.android.gms:play-services-location@@21.0.1"}
-com.google.android.gms.location.LastLocationRequest -> com.google.android.gms.location.LastLocationRequest:
-# {"id":"sourceFile","fileName":"com.google.android.gms:play-services-location@@21.0.1"}
-    0:0:void <clinit>() -> <clinit>
-    1:1:void <init>(long,int,boolean,java.lang.String,com.google.android.gms.internal.location.zzd) -> <init>
-    1:5:boolean equals(java.lang.Object) -> equals
-    0:0:int getGranularity() -> getGranularity
-    0:0:long getMaxUpdateAgeMillis() -> getMaxUpdateAgeMillis
-    1:1:int hashCode() -> hashCode
-    1:9:java.lang.String toString() -> toString
-    1:7:void writeToParcel(android.os.Parcel,int) -> writeToParcel
-com.google.android.gms.location.LastLocationRequest$Builder -> com.google.android.gms.location.LastLocationRequest$Builder:
-# {"id":"sourceFile","fileName":"com.google.android.gms:play-services-location@@21.0.1"}
-    0:0:void <init>() -> <init>
-    1:1:com.google.android.gms.location.LastLocationRequest build() -> build
 com.google.android.gms.location.LocationRequest -> com.google.android.gms.location.LocationRequest:
 # {"id":"sourceFile","fileName":"com.google.android.gms:play-services-location@@21.0.1"}
     0:0:void <clinit>() -> <clinit>
@@ -19724,7 +19675,6 @@ com.google.android.gms.location.LocationRequest -> com.google.android.gms.locati
 com.google.android.gms.location.LocationServices -> com.google.android.gms.location.LocationServices:
 # {"id":"sourceFile","fileName":"com.google.android.gms:play-services-location@@21.0.1"}
     1:1:void <clinit>() -> <clinit>
-    1:1:com.google.android.gms.location.FusedLocationProviderClient getFusedLocationProviderClient(android.app.Activity) -> getFusedLocationProviderClient
     2:2:com.google.android.gms.location.SettingsClient getSettingsClient(android.content.Context) -> getSettingsClient
 com.google.android.gms.location.LocationSettingsRequest -> com.google.android.gms.location.LocationSettingsRequest:
 # {"id":"sourceFile","fileName":"com.google.android.gms:play-services-location@@21.0.1"}
@@ -19783,10 +19733,6 @@ com.google.android.gms.location.zzm -> com.google.android.gms.location.zzm:
 com.google.android.gms.location.zzo -> com.google.android.gms.location.zzo:
 # {"id":"sourceFile","fileName":"com.google.android.gms:play-services-location@@21.0.1"}
     1:1:java.lang.String zzb(int) -> zzb
-com.google.android.gms.location.zzv -> com.google.android.gms.location.zzv:
-# {"id":"sourceFile","fileName":"com.google.android.gms:play-services-location@@21.0.1"}
-    1:13:java.lang.Object createFromParcel(android.os.Parcel) -> createFromParcel
-    1:1:java.lang.Object[] newArray(int) -> newArray
 com.google.android.gms.location.zzx -> com.google.android.gms.location.zzx:
 # {"id":"sourceFile","fileName":"com.google.android.gms:play-services-location@@21.0.1"}
     1:25:java.lang.Object createFromParcel(android.os.Parcel) -> createFromParcel
@@ -19890,8 +19836,6 @@ com.google.android.gms.tasks.DuplicateTaskCompletionException -> com.google.andr
     1:7:java.lang.IllegalStateException of(com.google.android.gms.tasks.Task) -> of
 com.google.android.gms.tasks.OnCompleteListener -> com.google.android.gms.tasks.OnCompleteListener:
 # {"id":"sourceFile","fileName":"com.google.android.gms:play-services-tasks@@18.0.2"}
-com.google.android.gms.tasks.OnSuccessListener -> com.google.android.gms.tasks.OnSuccessListener:
-# {"id":"sourceFile","fileName":"com.google.android.gms:play-services-tasks@@18.0.2"}
 com.google.android.gms.tasks.RuntimeExecutionException -> com.google.android.gms.tasks.RuntimeExecutionException:
 # {"id":"sourceFile","fileName":"com.google.android.gms:play-services-tasks@@18.0.2"}
     1:1:void <init>(java.lang.Throwable) -> <init>
@@ -19918,19 +19862,7 @@ com.google.android.gms.tasks.zzj -> com.google.android.gms.tasks.zzj:
     0:0:void <init>(java.util.concurrent.Executor,com.google.android.gms.tasks.OnCompleteListener) -> <init>
     0:0:com.google.android.gms.tasks.OnCompleteListener zza(com.google.android.gms.tasks.zzj) -> zza
     0:0:java.lang.Object zzb(com.google.android.gms.tasks.zzj) -> zzb
-    1:1:void zzc() -> zzc
     1:3:void zzd(com.google.android.gms.tasks.Task) -> zzd
-com.google.android.gms.tasks.zzm -> com.google.android.gms.tasks.zzm:
-# {"id":"sourceFile","fileName":"com.google.android.gms:play-services-tasks@@18.0.2"}
-    0:0:void <init>(com.google.android.gms.tasks.zzn,com.google.android.gms.tasks.Task) -> <init>
-    1:2:void run() -> run
-com.google.android.gms.tasks.zzn -> com.google.android.gms.tasks.zzn:
-# {"id":"sourceFile","fileName":"com.google.android.gms:play-services-tasks@@18.0.2"}
-    0:0:void <init>(java.util.concurrent.Executor,com.google.android.gms.tasks.OnSuccessListener) -> <init>
-    0:0:com.google.android.gms.tasks.OnSuccessListener zza(com.google.android.gms.tasks.zzn) -> zza
-    0:0:java.lang.Object zzb(com.google.android.gms.tasks.zzn) -> zzb
-    1:1:void zzc() -> zzc
-    1:4:void zzd(com.google.android.gms.tasks.Task) -> zzd
 com.google.android.gms.tasks.zzq -> com.google.android.gms.tasks.zzq:
 # {"id":"sourceFile","fileName":"com.google.android.gms:play-services-tasks@@18.0.2"}
 com.google.android.gms.tasks.zzr -> com.google.android.gms.tasks.zzr:
@@ -19945,18 +19877,11 @@ com.google.android.gms.tasks.zzu -> com.google.android.gms.tasks.zzu:
 # {"id":"sourceFile","fileName":"com.google.android.gms:play-services-tasks@@18.0.2"}
     1:1:void <init>() -> <init>
     1:1:void execute(java.lang.Runnable) -> execute
-com.google.android.gms.tasks.zzv -> com.google.android.gms.tasks.zzv:
-# {"id":"sourceFile","fileName":"com.google.android.gms:play-services-tasks@@18.0.2"}
-    1:3:void <init>(com.google.android.gms.common.api.internal.LifecycleFragment) -> <init>
-    1:6:void onStop() -> onStop
-    1:3:com.google.android.gms.tasks.zzv zza(android.app.Activity) -> zza
-    1:3:void zzb(com.google.android.gms.tasks.zzq) -> zzb
 com.google.android.gms.tasks.zzw -> com.google.android.gms.tasks.zzw:
 # {"id":"sourceFile","fileName":"com.google.android.gms:play-services-tasks@@18.0.2"}
     0:0:void <init>() -> <init>
     5:7:com.google.android.gms.tasks.Task addOnCompleteListener(com.google.android.gms.tasks.OnCompleteListener) -> addOnCompleteListener
     8:9:com.google.android.gms.tasks.Task addOnCompleteListener(java.util.concurrent.Executor,com.google.android.gms.tasks.OnCompleteListener) -> addOnCompleteListener
-    1:4:com.google.android.gms.tasks.Task addOnSuccessListener(android.app.Activity,com.google.android.gms.tasks.OnSuccessListener) -> addOnSuccessListener
     1:2:java.lang.Exception getException() -> getException
     1:5:java.lang.Object getResult() -> getResult
     6:12:java.lang.Object getResult(java.lang.Class) -> getResult

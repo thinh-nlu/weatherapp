@@ -1,4 +1,4 @@
-#Wed May 29 17:30:54 ICT 2024
-base.0=D\:\\TRUONGTHINH\\weatherapp\\app\\build\\intermediates\\dex\\developDebug\\minifyDevelopDebugWithR8\\classes.dex
+#Wed May 29 21:19:37 ICT 2024
+base.0=D\:\\New folder\\NTD\\weatherapp\\app\\build\\intermediates\\dex\\developDebug\\minifyDevelopDebugWithR8\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
